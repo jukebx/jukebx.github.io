@@ -11,7 +11,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dae2f8', end
 }
 
 .flowers{
-  background:url(../img/flowers.jpg);
+  background:url(./img/flowers.jpg);
 }
 
 .main-nav {
