@@ -5,3 +5,9 @@ $(document).ready(function(){
     triggerDistance: 80
   });
 });
+alert();
+
+$('.flowerToggle').click(function(){
+  alert();
+  $('body').toggleClass('flowers')
+})
