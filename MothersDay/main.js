@@ -14,5 +14,12 @@ $(document).ready(function(){
       $('.before').css('opacity','0.04');
       flowerT = false;
     }
+  });
+  $('.homepage').click(function(){
+    alert('On Firefox, drag the tab over to the home icon in the left.');
   })
+  $('.star').click(function(){
+    var quotes = ['',"The most important thing is to enjoy your life - to be happy - it's all that matters. \n From Audrey Hepbrun"]
+  })
+
 })
