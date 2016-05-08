@@ -1,5 +1,4 @@
 body {
-  transition: all .5s;
   padding: 0;
   margin: 0;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#dae2f8+1,d6a4a4+100 */
@@ -10,8 +9,17 @@ background-image: linear-gradient(135deg,  #dae2f8 1%,#d6a4a4 100%) !important; 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dae2f8', endColorstr='#d6a4a4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
-.flowers{
-  background:url(./img/flowers.jpg);
+.before{
+opacity:0.04;
+  transition: all .5s;
+  content: " ";
+  position:fixed;
+  z-index:-1;
+  left:0;
+  top:0;
+  width:100%;
+  height:100%;
+  background:url(./img/flowers.jpg) !important;
 }
 
 .main-nav {

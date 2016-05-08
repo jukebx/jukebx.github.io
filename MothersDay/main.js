@@ -4,10 +4,15 @@ $(document).ready(function(){
     elementClosest: 80,
     triggerDistance: 80
   });
-});
-alert();
-
-$('.flowerToggle').click(function(){
-  alert();
-  $('body').toggleClass('flowers')
+  var flowerT = false;
+  $('.flowerToggle').click(function(){
+    if(!flowerT){
+      $('.before').css('opacity','0.9');
+      flowerT = true;
+    }
+    else{
+      $('.before').css('opacity','0.04');
+      flowerT = false;
+    }
+  })
 })
