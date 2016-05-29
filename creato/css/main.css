@@ -3945,14 +3945,17 @@ a.material-design-text-black-darker:focus {
 div.editor{
   margin-top: 300px;
   height:calc(100vh - 300px);
+  min-height:200px;
   width:100vw;
 }
 textarea.editor{
   background: transparent;
   border:none;
   font-family:monospace;
-  padding:10px;
+  padding:30px;
   height:100%;
+  resize:none;
+  box-shadow: inset 0 0px 55px rgba(0,0,0,0.3);
   width:100vw;
 }
 .form-group{
