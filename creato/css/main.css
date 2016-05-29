@@ -1,0 +1,3960 @@
+/*!
+ *  Material Design Color Palette by Sergey Kupletsky (@zavoloklom) - http://zavoloklom.github.io/material-design-color-palette/
+ *  License - https://github.com/zavoloklom/material-design-color-palette/blob/master/License (MIT license)
+ */
+.material-design-text-red {
+  color: #f44336;
+}
+a.material-design-text-red:hover,
+a.material-design-text-red:focus {
+  color: #e53935;
+}
+.material-design-text-red-50 {
+  color: #ffebee;
+}
+a.material-design-text-red-50:hover,
+a.material-design-text-red-50:focus {
+  color: #ffcdd2;
+}
+.material-design-text-red-100 {
+  color: #ffcdd2;
+}
+a.material-design-text-red-100:hover,
+a.material-design-text-red-100:focus {
+  color: #ef9a9a;
+}
+.material-design-text-red-200 {
+  color: #ef9a9a;
+}
+a.material-design-text-red-200:hover,
+a.material-design-text-red-200:focus {
+  color: #e57373;
+}
+.material-design-text-red-300 {
+  color: #e57373;
+}
+a.material-design-text-red-300:hover,
+a.material-design-text-red-300:focus {
+  color: #ef5350;
+}
+.material-design-text-red-400 {
+  color: #ef5350;
+}
+a.material-design-text-red-400:hover,
+a.material-design-text-red-400:focus {
+  color: #f44336;
+}
+.material-design-text-red-500 {
+  color: #f44336;
+}
+a.material-design-text-red-500:hover,
+a.material-design-text-red-500:focus {
+  color: #e53935;
+}
+.material-design-text-red-600 {
+  color: #e53935;
+}
+a.material-design-text-red-600:hover,
+a.material-design-text-red-600:focus {
+  color: #d32f2f;
+}
+.material-design-text-red-700 {
+  color: #d32f2f;
+}
+a.material-design-text-red-700:hover,
+a.material-design-text-red-700:focus {
+  color: #c62828;
+}
+.material-design-text-red-800 {
+  color: #c62828;
+}
+a.material-design-text-red-800:hover,
+a.material-design-text-red-800:focus {
+  color: #b71c1c;
+}
+.material-design-text-red-900 {
+  color: #b71c1c;
+}
+a.material-design-text-red-900:hover,
+a.material-design-text-red-900:focus {
+  color: #8b1515;
+}
+.material-design-text-red-A100 {
+  color: #ff8a80;
+}
+a.material-design-text-red-A100:hover,
+a.material-design-text-red-A100:focus {
+  color: #ff5b4d;
+}
+.material-design-text-red-A200 {
+  color: #ff5252;
+}
+a.material-design-text-red-A200:hover,
+a.material-design-text-red-A200:focus {
+  color: #ff1f1f;
+}
+.material-design-text-red-A400 {
+  color: #ff1744;
+}
+a.material-design-text-red-A400:hover,
+a.material-design-text-red-A400:focus {
+  color: #e3002c;
+}
+.material-design-text-red-A700 {
+  color: #d50000;
+}
+a.material-design-text-red-A700:hover,
+a.material-design-text-red-A700:focus {
+  color: #a20000;
+}
+.material-design-bg-red {
+  background-color: #f44336;
+}
+a.material-design-bg-red:hover,
+a.material-design-bg-red:focus {
+  background-color: #e53935;
+}
+.material-design-bg-red-50 {
+  background-color: #ffebee;
+}
+a.material-design-bg-red-50:hover,
+a.material-design-bg-red-50:focus {
+  background-color: #ffcdd2;
+}
+.material-design-bg-red-100 {
+  background-color: #ffcdd2;
+}
+a.material-design-bg-red-100:hover,
+a.material-design-bg-red-100:focus {
+  background-color: #ef9a9a;
+}
+.material-design-bg-red-200 {
+  background-color: #ef9a9a;
+}
+a.material-design-bg-red-200:hover,
+a.material-design-bg-red-200:focus {
+  background-color: #e57373;
+}
+.material-design-bg-red-300 {
+  background-color: #e57373;
+}
+a.material-design-bg-red-300:hover,
+a.material-design-bg-red-300:focus {
+  background-color: #ef5350;
+}
+.material-design-bg-red-400 {
+  background-color: #ef5350;
+}
+a.material-design-bg-red-400:hover,
+a.material-design-bg-red-400:focus {
+  background-color: #f44336;
+}
+.material-design-bg-red-500 {
+  background-color: #f44336;
+}
+a.material-design-bg-red-500:hover,
+a.material-design-bg-red-500:focus {
+  background-color: #e53935;
+}
+.material-design-bg-red-600 {
+  background-color: #e53935;
+}
+a.material-design-bg-red-600:hover,
+a.material-design-bg-red-600:focus {
+  background-color: #d32f2f;
+}
+.material-design-bg-red-700 {
+  background-color: #d32f2f;
+}
+a.material-design-bg-red-700:hover,
+a.material-design-bg-red-700:focus {
+  background-color: #c62828;
+}
+.material-design-bg-red-800 {
+  background-color: #c62828;
+}
+a.material-design-bg-red-800:hover,
+a.material-design-bg-red-800:focus {
+  background-color: #b71c1c;
+}
+.material-design-bg-red-900 {
+  background-color: #b71c1c;
+}
+a.material-design-bg-red-900:hover,
+a.material-design-bg-red-900:focus {
+  background-color: #8b1515;
+}
+.material-design-bg-red-A100 {
+  background-color: #ff8a80;
+}
+a.material-design-bg-red-A100:hover,
+a.material-design-bg-red-A100:focus {
+  background-color: #ff5b4d;
+}
+.material-design-bg-red-A200 {
+  background-color: #ff5252;
+}
+a.material-design-bg-red-A200:hover,
+a.material-design-bg-red-A200:focus {
+  background-color: #ff1f1f;
+}
+.material-design-bg-red-A400 {
+  background-color: #ff1744;
+}
+a.material-design-bg-red-A400:hover,
+a.material-design-bg-red-A400:focus {
+  background-color: #e3002c;
+}
+.material-design-bg-red-A700 {
+  background-color: #d50000;
+}
+a.material-design-bg-red-A700:hover,
+a.material-design-bg-red-A700:focus {
+  background-color: #a20000;
+}
+.material-design-text-pink {
+  color: #e91e63;
+}
+a.material-design-text-pink:hover,
+a.material-design-text-pink:focus {
+  color: #d81b60;
+}
+.material-design-text-pink-50 {
+  color: #fce4ec;
+}
+a.material-design-text-pink-50:hover,
+a.material-design-text-pink-50:focus {
+  color: #f8bbd0;
+}
+.material-design-text-pink-100 {
+  color: #f8bbd0;
+}
+a.material-design-text-pink-100:hover,
+a.material-design-text-pink-100:focus {
+  color: #f48fb1;
+}
+.material-design-text-pink-200 {
+  color: #f48fb1;
+}
+a.material-design-text-pink-200:hover,
+a.material-design-text-pink-200:focus {
+  color: #f06292;
+}
+.material-design-text-pink-300 {
+  color: #f06292;
+}
+a.material-design-text-pink-300:hover,
+a.material-design-text-pink-300:focus {
+  color: #ec407a;
+}
+.material-design-text-pink-400 {
+  color: #ec407a;
+}
+a.material-design-text-pink-400:hover,
+a.material-design-text-pink-400:focus {
+  color: #e91e63;
+}
+.material-design-text-pink-500 {
+  color: #e91e63;
+}
+a.material-design-text-pink-500:hover,
+a.material-design-text-pink-500:focus {
+  color: #d81b60;
+}
+.material-design-text-pink-600 {
+  color: #d81b60;
+}
+a.material-design-text-pink-600:hover,
+a.material-design-text-pink-600:focus {
+  color: #c2185b;
+}
+.material-design-text-pink-700 {
+  color: #c2185b;
+}
+a.material-design-text-pink-700:hover,
+a.material-design-text-pink-700:focus {
+  color: #ad1457;
+}
+.material-design-text-pink-800 {
+  color: #ad1457;
+}
+a.material-design-text-pink-800:hover,
+a.material-design-text-pink-800:focus {
+  color: #880e4f;
+}
+.material-design-text-pink-900 {
+  color: #880e4f;
+}
+a.material-design-text-pink-900:hover,
+a.material-design-text-pink-900:focus {
+  color: #5a0934;
+}
+.material-design-text-pink-A100 {
+  color: #ff80ab;
+}
+a.material-design-text-pink-A100:hover,
+a.material-design-text-pink-A100:focus {
+  color: #ff4d89;
+}
+.material-design-text-pink-A200 {
+  color: #ff4081;
+}
+a.material-design-text-pink-A200:hover,
+a.material-design-text-pink-A200:focus {
+  color: #ff0d5f;
+}
+.material-design-text-pink-A400 {
+  color: #f50057;
+}
+a.material-design-text-pink-A400:hover,
+a.material-design-text-pink-A400:focus {
+  color: #c20045;
+}
+.material-design-text-pink-A700 {
+  color: #c51162;
+}
+a.material-design-text-pink-A700:hover,
+a.material-design-text-pink-A700:focus {
+  color: #960d4b;
+}
+.material-design-bg-pink {
+  background-color: #e91e63;
+}
+a.material-design-bg-pink:hover,
+a.material-design-bg-pink:focus {
+  background-color: #d81b60;
+}
+.material-design-bg-pink-50 {
+  background-color: #fce4ec;
+}
+a.material-design-bg-pink-50:hover,
+a.material-design-bg-pink-50:focus {
+  background-color: #f8bbd0;
+}
+.material-design-bg-pink-100 {
+  background-color: #f8bbd0;
+}
+a.material-design-bg-pink-100:hover,
+a.material-design-bg-pink-100:focus {
+  background-color: #f48fb1;
+}
+.material-design-bg-pink-200 {
+  background-color: #f48fb1;
+}
+a.material-design-bg-pink-200:hover,
+a.material-design-bg-pink-200:focus {
+  background-color: #f06292;
+}
+.material-design-bg-pink-300 {
+  background-color: #f06292;
+}
+a.material-design-bg-pink-300:hover,
+a.material-design-bg-pink-300:focus {
+  background-color: #ec407a;
+}
+.material-design-bg-pink-400 {
+  background-color: #ec407a;
+}
+a.material-design-bg-pink-400:hover,
+a.material-design-bg-pink-400:focus {
+  background-color: #e91e63;
+}
+.material-design-bg-pink-500 {
+  background-color: #e91e63;
+}
+a.material-design-bg-pink-500:hover,
+a.material-design-bg-pink-500:focus {
+  background-color: #d81b60;
+}
+.material-design-bg-pink-600 {
+  background-color: #d81b60;
+}
+a.material-design-bg-pink-600:hover,
+a.material-design-bg-pink-600:focus {
+  background-color: #c2185b;
+}
+.material-design-bg-pink-700 {
+  background-color: #c2185b;
+}
+a.material-design-bg-pink-700:hover,
+a.material-design-bg-pink-700:focus {
+  background-color: #ad1457;
+}
+.material-design-bg-pink-800 {
+  background-color: #ad1457;
+}
+a.material-design-bg-pink-800:hover,
+a.material-design-bg-pink-800:focus {
+  background-color: #880e4f;
+}
+.material-design-bg-pink-900 {
+  background-color: #880e4f;
+}
+a.material-design-bg-pink-900:hover,
+a.material-design-bg-pink-900:focus {
+  background-color: #5a0934;
+}
+.material-design-bg-pink-A100 {
+  background-color: #ff80ab;
+}
+a.material-design-bg-pink-A100:hover,
+a.material-design-bg-pink-A100:focus {
+  background-color: #ff4d89;
+}
+.material-design-bg-pink-A200 {
+  background-color: #ff4081;
+}
+a.material-design-bg-pink-A200:hover,
+a.material-design-bg-pink-A200:focus {
+  background-color: #ff0d5f;
+}
+.material-design-bg-pink-A400 {
+  background-color: #f50057;
+}
+a.material-design-bg-pink-A400:hover,
+a.material-design-bg-pink-A400:focus {
+  background-color: #c20045;
+}
+.material-design-bg-pink-A700 {
+  background-color: #c51162;
+}
+a.material-design-bg-pink-A700:hover,
+a.material-design-bg-pink-A700:focus {
+  background-color: #960d4b;
+}
+.material-design-text-purple {
+  color: #9c27b0;
+}
+a.material-design-text-purple:hover,
+a.material-design-text-purple:focus {
+  color: #8e24aa;
+}
+.material-design-text-purple-50 {
+  color: #f3e5f5;
+}
+a.material-design-text-purple-50:hover,
+a.material-design-text-purple-50:focus {
+  color: #e1bee7;
+}
+.material-design-text-purple-100 {
+  color: #e1bee7;
+}
+a.material-design-text-purple-100:hover,
+a.material-design-text-purple-100:focus {
+  color: #ce93d8;
+}
+.material-design-text-purple-200 {
+  color: #ce93d8;
+}
+a.material-design-text-purple-200:hover,
+a.material-design-text-purple-200:focus {
+  color: #ba68c8;
+}
+.material-design-text-purple-300 {
+  color: #ba68c8;
+}
+a.material-design-text-purple-300:hover,
+a.material-design-text-purple-300:focus {
+  color: #ab47bc;
+}
+.material-design-text-purple-400 {
+  color: #ab47bc;
+}
+a.material-design-text-purple-400:hover,
+a.material-design-text-purple-400:focus {
+  color: #9c27b0;
+}
+.material-design-text-purple-500 {
+  color: #9c27b0;
+}
+a.material-design-text-purple-500:hover,
+a.material-design-text-purple-500:focus {
+  color: #8e24aa;
+}
+.material-design-text-purple-600 {
+  color: #8e24aa;
+}
+a.material-design-text-purple-600:hover,
+a.material-design-text-purple-600:focus {
+  color: #7b1fa2;
+}
+.material-design-text-purple-700 {
+  color: #7b1fa2;
+}
+a.material-design-text-purple-700:hover,
+a.material-design-text-purple-700:focus {
+  color: #6a1b9a;
+}
+.material-design-text-purple-800 {
+  color: #6a1b9a;
+}
+a.material-design-text-purple-800:hover,
+a.material-design-text-purple-800:focus {
+  color: #4a148c;
+}
+.material-design-text-purple-900 {
+  color: #4a148c;
+}
+a.material-design-text-purple-900:hover,
+a.material-design-text-purple-900:focus {
+  color: #320e5f;
+}
+.material-design-text-purple-A100 {
+  color: #ea80fc;
+}
+a.material-design-text-purple-A100:hover,
+a.material-design-text-purple-A100:focus {
+  color: #e24efb;
+}
+.material-design-text-purple-A200 {
+  color: #e040fb;
+}
+a.material-design-text-purple-A200:hover,
+a.material-design-text-purple-A200:focus {
+  color: #d80efa;
+}
+.material-design-text-purple-A400 {
+  color: #d500f9;
+}
+a.material-design-text-purple-A400:hover,
+a.material-design-text-purple-A400:focus {
+  color: #a900c6;
+}
+.material-design-text-purple-A700 {
+  color: #aa00ff;
+}
+a.material-design-text-purple-A700:hover,
+a.material-design-text-purple-A700:focus {
+  color: #8800cc;
+}
+.material-design-bg-purple {
+  background-color: #9c27b0;
+}
+a.material-design-bg-purple:hover,
+a.material-design-bg-purple:focus {
+  background-color: #8e24aa;
+}
+.material-design-bg-purple-50 {
+  background-color: #f3e5f5;
+}
+a.material-design-bg-purple-50:hover,
+a.material-design-bg-purple-50:focus {
+  background-color: #e1bee7;
+}
+.material-design-bg-purple-100 {
+  background-color: #e1bee7;
+}
+a.material-design-bg-purple-100:hover,
+a.material-design-bg-purple-100:focus {
+  background-color: #ce93d8;
+}
+.material-design-bg-purple-200 {
+  background-color: #ce93d8;
+}
+a.material-design-bg-purple-200:hover,
+a.material-design-bg-purple-200:focus {
+  background-color: #ba68c8;
+}
+.material-design-bg-purple-300 {
+  background-color: #ba68c8;
+}
+a.material-design-bg-purple-300:hover,
+a.material-design-bg-purple-300:focus {
+  background-color: #ab47bc;
+}
+.material-design-bg-purple-400 {
+  background-color: #ab47bc;
+}
+a.material-design-bg-purple-400:hover,
+a.material-design-bg-purple-400:focus {
+  background-color: #9c27b0;
+}
+.material-design-bg-purple-500 {
+  background-color: #9c27b0;
+}
+a.material-design-bg-purple-500:hover,
+a.material-design-bg-purple-500:focus {
+  background-color: #8e24aa;
+}
+.material-design-bg-purple-600 {
+  background-color: #8e24aa;
+}
+a.material-design-bg-purple-600:hover,
+a.material-design-bg-purple-600:focus {
+  background-color: #7b1fa2;
+}
+.material-design-bg-purple-700 {
+  background-color: #7b1fa2;
+}
+a.material-design-bg-purple-700:hover,
+a.material-design-bg-purple-700:focus {
+  background-color: #6a1b9a;
+}
+.material-design-bg-purple-800 {
+  background-color: #6a1b9a;
+}
+a.material-design-bg-purple-800:hover,
+a.material-design-bg-purple-800:focus {
+  background-color: #4a148c;
+}
+.material-design-bg-purple-900 {
+  background-color: #4a148c;
+}
+a.material-design-bg-purple-900:hover,
+a.material-design-bg-purple-900:focus {
+  background-color: #320e5f;
+}
+.material-design-bg-purple-A100 {
+  background-color: #ea80fc;
+}
+a.material-design-bg-purple-A100:hover,
+a.material-design-bg-purple-A100:focus {
+  background-color: #e24efb;
+}
+.material-design-bg-purple-A200 {
+  background-color: #e040fb;
+}
+a.material-design-bg-purple-A200:hover,
+a.material-design-bg-purple-A200:focus {
+  background-color: #d80efa;
+}
+.material-design-bg-purple-A400 {
+  background-color: #d500f9;
+}
+a.material-design-bg-purple-A400:hover,
+a.material-design-bg-purple-A400:focus {
+  background-color: #a900c6;
+}
+.material-design-bg-purple-A700 {
+  background-color: #aa00ff;
+}
+a.material-design-bg-purple-A700:hover,
+a.material-design-bg-purple-A700:focus {
+  background-color: #8800cc;
+}
+.material-design-text-deep-purple {
+  color: #673ab7;
+}
+a.material-design-text-deep-purple:hover,
+a.material-design-text-deep-purple:focus {
+  color: #5e35b1;
+}
+.material-design-text-deep-purple-50 {
+  color: #ede7f6;
+}
+a.material-design-text-deep-purple-50:hover,
+a.material-design-text-deep-purple-50:focus {
+  color: #d1c4e9;
+}
+.material-design-text-deep-purple-100 {
+  color: #d1c4e9;
+}
+a.material-design-text-deep-purple-100:hover,
+a.material-design-text-deep-purple-100:focus {
+  color: #b39ddb;
+}
+.material-design-text-deep-purple-200 {
+  color: #b39ddb;
+}
+a.material-design-text-deep-purple-200:hover,
+a.material-design-text-deep-purple-200:focus {
+  color: #9575cd;
+}
+.material-design-text-deep-purple-300 {
+  color: #9575cd;
+}
+a.material-design-text-deep-purple-300:hover,
+a.material-design-text-deep-purple-300:focus {
+  color: #7e57c2;
+}
+.material-design-text-deep-purple-400 {
+  color: #7e57c2;
+}
+a.material-design-text-deep-purple-400:hover,
+a.material-design-text-deep-purple-400:focus {
+  color: #673ab7;
+}
+.material-design-text-deep-purple-500 {
+  color: #673ab7;
+}
+a.material-design-text-deep-purple-500:hover,
+a.material-design-text-deep-purple-500:focus {
+  color: #5e35b1;
+}
+.material-design-text-deep-purple-600 {
+  color: #5e35b1;
+}
+a.material-design-text-deep-purple-600:hover,
+a.material-design-text-deep-purple-600:focus {
+  color: #512da8;
+}
+.material-design-text-deep-purple-700 {
+  color: #512da8;
+}
+a.material-design-text-deep-purple-700:hover,
+a.material-design-text-deep-purple-700:focus {
+  color: #4527a0;
+}
+.material-design-text-deep-purple-800 {
+  color: #4527a0;
+}
+a.material-design-text-deep-purple-800:hover,
+a.material-design-text-deep-purple-800:focus {
+  color: #311b92;
+}
+.material-design-text-deep-purple-900 {
+  color: #311b92;
+}
+a.material-design-text-deep-purple-900:hover,
+a.material-design-text-deep-purple-900:focus {
+  color: #231367;
+}
+.material-design-text-deep-purple-A100 {
+  color: #b388ff;
+}
+a.material-design-text-deep-purple-A100:hover,
+a.material-design-text-deep-purple-A100:focus {
+  color: #9255ff;
+}
+.material-design-text-deep-purple-A200 {
+  color: #7c4dff;
+}
+a.material-design-text-deep-purple-A200:hover,
+a.material-design-text-deep-purple-A200:focus {
+  color: #561aff;
+}
+.material-design-text-deep-purple-A400 {
+  color: #651fff;
+}
+a.material-design-text-deep-purple-A400:hover,
+a.material-design-text-deep-purple-A400:focus {
+  color: #4900eb;
+}
+.material-design-text-deep-purple-A700 {
+  color: #6200ea;
+}
+a.material-design-text-deep-purple-A700:hover,
+a.material-design-text-deep-purple-A700:focus {
+  color: #4d00b7;
+}
+.material-design-bg-deep-purple {
+  background-color: #673ab7;
+}
+a.material-design-bg-deep-purple:hover,
+a.material-design-bg-deep-purple:focus {
+  background-color: #5e35b1;
+}
+.material-design-bg-deep-purple-50 {
+  background-color: #ede7f6;
+}
+a.material-design-bg-deep-purple-50:hover,
+a.material-design-bg-deep-purple-50:focus {
+  background-color: #d1c4e9;
+}
+.material-design-bg-deep-purple-100 {
+  background-color: #d1c4e9;
+}
+a.material-design-bg-deep-purple-100:hover,
+a.material-design-bg-deep-purple-100:focus {
+  background-color: #b39ddb;
+}
+.material-design-bg-deep-purple-200 {
+  background-color: #b39ddb;
+}
+a.material-design-bg-deep-purple-200:hover,
+a.material-design-bg-deep-purple-200:focus {
+  background-color: #9575cd;
+}
+.material-design-bg-deep-purple-300 {
+  background-color: #9575cd;
+}
+a.material-design-bg-deep-purple-300:hover,
+a.material-design-bg-deep-purple-300:focus {
+  background-color: #7e57c2;
+}
+.material-design-bg-deep-purple-400 {
+  background-color: #7e57c2;
+}
+a.material-design-bg-deep-purple-400:hover,
+a.material-design-bg-deep-purple-400:focus {
+  background-color: #673ab7;
+}
+.material-design-bg-deep-purple-500 {
+  background-color: #673ab7;
+}
+a.material-design-bg-deep-purple-500:hover,
+a.material-design-bg-deep-purple-500:focus {
+  background-color: #5e35b1;
+}
+.material-design-bg-deep-purple-600 {
+  background-color: #5e35b1;
+}
+a.material-design-bg-deep-purple-600:hover,
+a.material-design-bg-deep-purple-600:focus {
+  background-color: #512da8;
+}
+.material-design-bg-deep-purple-700 {
+  background-color: #512da8;
+}
+a.material-design-bg-deep-purple-700:hover,
+a.material-design-bg-deep-purple-700:focus {
+  background-color: #4527a0;
+}
+.material-design-bg-deep-purple-800 {
+  background-color: #4527a0;
+}
+a.material-design-bg-deep-purple-800:hover,
+a.material-design-bg-deep-purple-800:focus {
+  background-color: #311b92;
+}
+.material-design-bg-deep-purple-900 {
+  background-color: #311b92;
+}
+a.material-design-bg-deep-purple-900:hover,
+a.material-design-bg-deep-purple-900:focus {
+  background-color: #231367;
+}
+.material-design-bg-deep-purple-A100 {
+  background-color: #b388ff;
+}
+a.material-design-bg-deep-purple-A100:hover,
+a.material-design-bg-deep-purple-A100:focus {
+  background-color: #9255ff;
+}
+.material-design-bg-deep-purple-A200 {
+  background-color: #7c4dff;
+}
+a.material-design-bg-deep-purple-A200:hover,
+a.material-design-bg-deep-purple-A200:focus {
+  background-color: #561aff;
+}
+.material-design-bg-deep-purple-A400 {
+  background-color: #651fff;
+}
+a.material-design-bg-deep-purple-A400:hover,
+a.material-design-bg-deep-purple-A400:focus {
+  background-color: #4900eb;
+}
+.material-design-bg-deep-purple-A700 {
+  background-color: #6200ea;
+}
+a.material-design-bg-deep-purple-A700:hover,
+a.material-design-bg-deep-purple-A700:focus {
+  background-color: #4d00b7;
+}
+.material-design-text-indigo {
+  color: #3f51b5;
+}
+a.material-design-text-indigo:hover,
+a.material-design-text-indigo:focus {
+  color: #3949ab;
+}
+.material-design-text-indigo-50 {
+  color: #e8eaf6;
+}
+a.material-design-text-indigo-50:hover,
+a.material-design-text-indigo-50:focus {
+  color: #c5cae9;
+}
+.material-design-text-indigo-100 {
+  color: #c5cae9;
+}
+a.material-design-text-indigo-100:hover,
+a.material-design-text-indigo-100:focus {
+  color: #9fa8da;
+}
+.material-design-text-indigo-200 {
+  color: #9fa8da;
+}
+a.material-design-text-indigo-200:hover,
+a.material-design-text-indigo-200:focus {
+  color: #7986cb;
+}
+.material-design-text-indigo-300 {
+  color: #7986cb;
+}
+a.material-design-text-indigo-300:hover,
+a.material-design-text-indigo-300:focus {
+  color: #5c6bc0;
+}
+.material-design-text-indigo-400 {
+  color: #5c6bc0;
+}
+a.material-design-text-indigo-400:hover,
+a.material-design-text-indigo-400:focus {
+  color: #3f51b5;
+}
+.material-design-text-indigo-500 {
+  color: #3f51b5;
+}
+a.material-design-text-indigo-500:hover,
+a.material-design-text-indigo-500:focus {
+  color: #3949ab;
+}
+.material-design-text-indigo-600 {
+  color: #3949ab;
+}
+a.material-design-text-indigo-600:hover,
+a.material-design-text-indigo-600:focus {
+  color: #303f9f;
+}
+.material-design-text-indigo-700 {
+  color: #303f9f;
+}
+a.material-design-text-indigo-700:hover,
+a.material-design-text-indigo-700:focus {
+  color: #283593;
+}
+.material-design-text-indigo-800 {
+  color: #283593;
+}
+a.material-design-text-indigo-800:hover,
+a.material-design-text-indigo-800:focus {
+  color: #1a237e;
+}
+.material-design-text-indigo-900 {
+  color: #1a237e;
+}
+a.material-design-text-indigo-900:hover,
+a.material-design-text-indigo-900:focus {
+  color: #111754;
+}
+.material-design-text-indigo-A100 {
+  color: #8c9eff;
+}
+a.material-design-text-indigo-A100:hover,
+a.material-design-text-indigo-A100:focus {
+  color: #5973ff;
+}
+.material-design-text-indigo-A200 {
+  color: #536dfe;
+}
+a.material-design-text-indigo-A200:hover,
+a.material-design-text-indigo-A200:focus {
+  color: #2042fe;
+}
+.material-design-text-indigo-A400 {
+  color: #3d5afe;
+}
+a.material-design-text-indigo-A400:hover,
+a.material-design-text-indigo-A400:focus {
+  color: #0a2ffe;
+}
+.material-design-text-indigo-A700 {
+  color: #304ffe;
+}
+a.material-design-text-indigo-A700:hover,
+a.material-design-text-indigo-A700:focus {
+  color: #0127fa;
+}
+.material-design-bg-indigo {
+  background-color: #3f51b5;
+}
+a.material-design-bg-indigo:hover,
+a.material-design-bg-indigo:focus {
+  background-color: #3949ab;
+}
+.material-design-bg-indigo-50 {
+  background-color: #e8eaf6;
+}
+a.material-design-bg-indigo-50:hover,
+a.material-design-bg-indigo-50:focus {
+  background-color: #c5cae9;
+}
+.material-design-bg-indigo-100 {
+  background-color: #c5cae9;
+}
+a.material-design-bg-indigo-100:hover,
+a.material-design-bg-indigo-100:focus {
+  background-color: #9fa8da;
+}
+.material-design-bg-indigo-200 {
+  background-color: #9fa8da;
+}
+a.material-design-bg-indigo-200:hover,
+a.material-design-bg-indigo-200:focus {
+  background-color: #7986cb;
+}
+.material-design-bg-indigo-300 {
+  background-color: #7986cb;
+}
+a.material-design-bg-indigo-300:hover,
+a.material-design-bg-indigo-300:focus {
+  background-color: #5c6bc0;
+}
+.material-design-bg-indigo-400 {
+  background-color: #5c6bc0;
+}
+a.material-design-bg-indigo-400:hover,
+a.material-design-bg-indigo-400:focus {
+  background-color: #3f51b5;
+}
+.material-design-bg-indigo-500 {
+  background-color: #3f51b5;
+}
+a.material-design-bg-indigo-500:hover,
+a.material-design-bg-indigo-500:focus {
+  background-color: #3949ab;
+}
+.material-design-bg-indigo-600 {
+  background-color: #3949ab;
+}
+a.material-design-bg-indigo-600:hover,
+a.material-design-bg-indigo-600:focus {
+  background-color: #303f9f;
+}
+.material-design-bg-indigo-700 {
+  background-color: #303f9f;
+}
+a.material-design-bg-indigo-700:hover,
+a.material-design-bg-indigo-700:focus {
+  background-color: #283593;
+}
+.material-design-bg-indigo-800 {
+  background-color: #283593;
+}
+a.material-design-bg-indigo-800:hover,
+a.material-design-bg-indigo-800:focus {
+  background-color: #1a237e;
+}
+.material-design-bg-indigo-900 {
+  background-color: #1a237e;
+}
+a.material-design-bg-indigo-900:hover,
+a.material-design-bg-indigo-900:focus {
+  background-color: #111754;
+}
+.material-design-bg-indigo-A100 {
+  background-color: #8c9eff;
+}
+a.material-design-bg-indigo-A100:hover,
+a.material-design-bg-indigo-A100:focus {
+  background-color: #5973ff;
+}
+.material-design-bg-indigo-A200 {
+  background-color: #536dfe;
+}
+a.material-design-bg-indigo-A200:hover,
+a.material-design-bg-indigo-A200:focus {
+  background-color: #2042fe;
+}
+.material-design-bg-indigo-A400 {
+  background-color: #3d5afe;
+}
+a.material-design-bg-indigo-A400:hover,
+a.material-design-bg-indigo-A400:focus {
+  background-color: #0a2ffe;
+}
+.material-design-bg-indigo-A700 {
+  background-color: #304ffe;
+}
+a.material-design-bg-indigo-A700:hover,
+a.material-design-bg-indigo-A700:focus {
+  background-color: #0127fa;
+}
+.material-design-text-blue {
+  color: #2196f3;
+}
+a.material-design-text-blue:hover,
+a.material-design-text-blue:focus {
+  color: #1e88e5;
+}
+.material-design-text-blue-50 {
+  color: #e3f2fd;
+}
+a.material-design-text-blue-50:hover,
+a.material-design-text-blue-50:focus {
+  color: #bbdefb;
+}
+.material-design-text-blue-100 {
+  color: #bbdefb;
+}
+a.material-design-text-blue-100:hover,
+a.material-design-text-blue-100:focus {
+  color: #90caf9;
+}
+.material-design-text-blue-200 {
+  color: #90caf9;
+}
+a.material-design-text-blue-200:hover,
+a.material-design-text-blue-200:focus {
+  color: #64b5f6;
+}
+.material-design-text-blue-300 {
+  color: #64b5f6;
+}
+a.material-design-text-blue-300:hover,
+a.material-design-text-blue-300:focus {
+  color: #42a5f5;
+}
+.material-design-text-blue-400 {
+  color: #42a5f5;
+}
+a.material-design-text-blue-400:hover,
+a.material-design-text-blue-400:focus {
+  color: #2196f3;
+}
+.material-design-text-blue-500 {
+  color: #2196f3;
+}
+a.material-design-text-blue-500:hover,
+a.material-design-text-blue-500:focus {
+  color: #1e88e5;
+}
+.material-design-text-blue-600 {
+  color: #1e88e5;
+}
+a.material-design-text-blue-600:hover,
+a.material-design-text-blue-600:focus {
+  color: #1976d2;
+}
+.material-design-text-blue-700 {
+  color: #1976d2;
+}
+a.material-design-text-blue-700:hover,
+a.material-design-text-blue-700:focus {
+  color: #1565c0;
+}
+.material-design-text-blue-800 {
+  color: #1565c0;
+}
+a.material-design-text-blue-800:hover,
+a.material-design-text-blue-800:focus {
+  color: #0d47a1;
+}
+.material-design-text-blue-900 {
+  color: #0d47a1;
+}
+a.material-design-text-blue-900:hover,
+a.material-design-text-blue-900:focus {
+  color: #093272;
+}
+.material-design-text-blue-A100 {
+  color: #82b1ff;
+}
+a.material-design-text-blue-A100:hover,
+a.material-design-text-blue-A100:focus {
+  color: #4f91ff;
+}
+.material-design-text-blue-A200 {
+  color: #448aff;
+}
+a.material-design-text-blue-A200:hover,
+a.material-design-text-blue-A200:focus {
+  color: #116aff;
+}
+.material-design-text-blue-A400 {
+  color: #2979ff;
+}
+a.material-design-text-blue-A400:hover,
+a.material-design-text-blue-A400:focus {
+  color: #005cf5;
+}
+.material-design-text-blue-A700 {
+  color: #2962ff;
+}
+a.material-design-text-blue-A700:hover,
+a.material-design-text-blue-A700:focus {
+  color: #0041f5;
+}
+.material-design-bg-blue {
+  background-color: #2196f3;
+}
+a.material-design-bg-blue:hover,
+a.material-design-bg-blue:focus {
+  background-color: #1e88e5;
+}
+.material-design-bg-blue-50 {
+  background-color: #e3f2fd;
+}
+a.material-design-bg-blue-50:hover,
+a.material-design-bg-blue-50:focus {
+  background-color: #bbdefb;
+}
+.material-design-bg-blue-100 {
+  background-color: #bbdefb;
+}
+a.material-design-bg-blue-100:hover,
+a.material-design-bg-blue-100:focus {
+  background-color: #90caf9;
+}
+.material-design-bg-blue-200 {
+  background-color: #90caf9;
+}
+a.material-design-bg-blue-200:hover,
+a.material-design-bg-blue-200:focus {
+  background-color: #64b5f6;
+}
+.material-design-bg-blue-300 {
+  background-color: #64b5f6;
+}
+a.material-design-bg-blue-300:hover,
+a.material-design-bg-blue-300:focus {
+  background-color: #42a5f5;
+}
+.material-design-bg-blue-400 {
+  background-color: #42a5f5;
+}
+a.material-design-bg-blue-400:hover,
+a.material-design-bg-blue-400:focus {
+  background-color: #2196f3;
+}
+.material-design-bg-blue-500 {
+  background-color: #2196f3;
+}
+a.material-design-bg-blue-500:hover,
+a.material-design-bg-blue-500:focus {
+  background-color: #1e88e5;
+}
+.material-design-bg-blue-600 {
+  background-color: #1e88e5;
+}
+a.material-design-bg-blue-600:hover,
+a.material-design-bg-blue-600:focus {
+  background-color: #1976d2;
+}
+.material-design-bg-blue-700 {
+  background-color: #1976d2;
+}
+a.material-design-bg-blue-700:hover,
+a.material-design-bg-blue-700:focus {
+  background-color: #1565c0;
+}
+.material-design-bg-blue-800 {
+  background-color: #1565c0;
+}
+a.material-design-bg-blue-800:hover,
+a.material-design-bg-blue-800:focus {
+  background-color: #0d47a1;
+}
+.material-design-bg-blue-900 {
+  background-color: #0d47a1;
+}
+a.material-design-bg-blue-900:hover,
+a.material-design-bg-blue-900:focus {
+  background-color: #093272;
+}
+.material-design-bg-blue-A100 {
+  background-color: #82b1ff;
+}
+a.material-design-bg-blue-A100:hover,
+a.material-design-bg-blue-A100:focus {
+  background-color: #4f91ff;
+}
+.material-design-bg-blue-A200 {
+  background-color: #448aff;
+}
+a.material-design-bg-blue-A200:hover,
+a.material-design-bg-blue-A200:focus {
+  background-color: #116aff;
+}
+.material-design-bg-blue-A400 {
+  background-color: #2979ff;
+}
+a.material-design-bg-blue-A400:hover,
+a.material-design-bg-blue-A400:focus {
+  background-color: #005cf5;
+}
+.material-design-bg-blue-A700 {
+  background-color: #2962ff;
+}
+a.material-design-bg-blue-A700:hover,
+a.material-design-bg-blue-A700:focus {
+  background-color: #0041f5;
+}
+.material-design-text-light-blue {
+  color: #03a9f4;
+}
+a.material-design-text-light-blue:hover,
+a.material-design-text-light-blue:focus {
+  color: #039be5;
+}
+.material-design-text-light-blue-50 {
+  color: #e1f5fe;
+}
+a.material-design-text-light-blue-50:hover,
+a.material-design-text-light-blue-50:focus {
+  color: #b3e5fc;
+}
+.material-design-text-light-blue-100 {
+  color: #b3e5fc;
+}
+a.material-design-text-light-blue-100:hover,
+a.material-design-text-light-blue-100:focus {
+  color: #81d4fa;
+}
+.material-design-text-light-blue-200 {
+  color: #81d4fa;
+}
+a.material-design-text-light-blue-200:hover,
+a.material-design-text-light-blue-200:focus {
+  color: #4fc3f7;
+}
+.material-design-text-light-blue-300 {
+  color: #4fc3f7;
+}
+a.material-design-text-light-blue-300:hover,
+a.material-design-text-light-blue-300:focus {
+  color: #29b6f6;
+}
+.material-design-text-light-blue-400 {
+  color: #29b6f6;
+}
+a.material-design-text-light-blue-400:hover,
+a.material-design-text-light-blue-400:focus {
+  color: #03a9f4;
+}
+.material-design-text-light-blue-500 {
+  color: #03a9f4;
+}
+a.material-design-text-light-blue-500:hover,
+a.material-design-text-light-blue-500:focus {
+  color: #039be5;
+}
+.material-design-text-light-blue-600 {
+  color: #039be5;
+}
+a.material-design-text-light-blue-600:hover,
+a.material-design-text-light-blue-600:focus {
+  color: #0288d1;
+}
+.material-design-text-light-blue-700 {
+  color: #0288d1;
+}
+a.material-design-text-light-blue-700:hover,
+a.material-design-text-light-blue-700:focus {
+  color: #0277bd;
+}
+.material-design-text-light-blue-800 {
+  color: #0277bd;
+}
+a.material-design-text-light-blue-800:hover,
+a.material-design-text-light-blue-800:focus {
+  color: #01579b;
+}
+.material-design-text-light-blue-900 {
+  color: #01579b;
+}
+a.material-design-text-light-blue-900:hover,
+a.material-design-text-light-blue-900:focus {
+  color: #013b68;
+}
+.material-design-text-light-blue-A100 {
+  color: #80d8ff;
+}
+a.material-design-text-light-blue-A100:hover,
+a.material-design-text-light-blue-A100:focus {
+  color: #4dc8ff;
+}
+.material-design-text-light-blue-A200 {
+  color: #40c4ff;
+}
+a.material-design-text-light-blue-A200:hover,
+a.material-design-text-light-blue-A200:focus {
+  color: #0db4ff;
+}
+.material-design-text-light-blue-A400 {
+  color: #00b0ff;
+}
+a.material-design-text-light-blue-A400:hover,
+a.material-design-text-light-blue-A400:focus {
+  color: #008dcc;
+}
+.material-design-text-light-blue-A700 {
+  color: #0091ea;
+}
+a.material-design-text-light-blue-A700:hover,
+a.material-design-text-light-blue-A700:focus {
+  color: #0071b7;
+}
+.material-design-bg-light-blue {
+  background-color: #03a9f4;
+}
+a.material-design-bg-light-blue:hover,
+a.material-design-bg-light-blue:focus {
+  background-color: #039be5;
+}
+.material-design-bg-light-blue-50 {
+  background-color: #e1f5fe;
+}
+a.material-design-bg-light-blue-50:hover,
+a.material-design-bg-light-blue-50:focus {
+  background-color: #b3e5fc;
+}
+.material-design-bg-light-blue-100 {
+  background-color: #b3e5fc;
+}
+a.material-design-bg-light-blue-100:hover,
+a.material-design-bg-light-blue-100:focus {
+  background-color: #81d4fa;
+}
+.material-design-bg-light-blue-200 {
+  background-color: #81d4fa;
+}
+a.material-design-bg-light-blue-200:hover,
+a.material-design-bg-light-blue-200:focus {
+  background-color: #4fc3f7;
+}
+.material-design-bg-light-blue-300 {
+  background-color: #4fc3f7;
+}
+a.material-design-bg-light-blue-300:hover,
+a.material-design-bg-light-blue-300:focus {
+  background-color: #29b6f6;
+}
+.material-design-bg-light-blue-400 {
+  background-color: #29b6f6;
+}
+a.material-design-bg-light-blue-400:hover,
+a.material-design-bg-light-blue-400:focus {
+  background-color: #03a9f4;
+}
+.material-design-bg-light-blue-500 {
+  background-color: #03a9f4;
+}
+a.material-design-bg-light-blue-500:hover,
+a.material-design-bg-light-blue-500:focus {
+  background-color: #039be5;
+}
+.material-design-bg-light-blue-600 {
+  background-color: #039be5;
+}
+a.material-design-bg-light-blue-600:hover,
+a.material-design-bg-light-blue-600:focus {
+  background-color: #0288d1;
+}
+.material-design-bg-light-blue-700 {
+  background-color: #0288d1;
+}
+a.material-design-bg-light-blue-700:hover,
+a.material-design-bg-light-blue-700:focus {
+  background-color: #0277bd;
+}
+.material-design-bg-light-blue-800 {
+  background-color: #0277bd;
+}
+a.material-design-bg-light-blue-800:hover,
+a.material-design-bg-light-blue-800:focus {
+  background-color: #01579b;
+}
+.material-design-bg-light-blue-900 {
+  background-color: #01579b;
+}
+a.material-design-bg-light-blue-900:hover,
+a.material-design-bg-light-blue-900:focus {
+  background-color: #013b68;
+}
+.material-design-bg-light-blue-A100 {
+  background-color: #80d8ff;
+}
+a.material-design-bg-light-blue-A100:hover,
+a.material-design-bg-light-blue-A100:focus {
+  background-color: #4dc8ff;
+}
+.material-design-bg-light-blue-A200 {
+  background-color: #40c4ff;
+}
+a.material-design-bg-light-blue-A200:hover,
+a.material-design-bg-light-blue-A200:focus {
+  background-color: #0db4ff;
+}
+.material-design-bg-light-blue-A400 {
+  background-color: #00b0ff;
+}
+a.material-design-bg-light-blue-A400:hover,
+a.material-design-bg-light-blue-A400:focus {
+  background-color: #008dcc;
+}
+.material-design-bg-light-blue-A700 {
+  background-color: #0091ea;
+}
+a.material-design-bg-light-blue-A700:hover,
+a.material-design-bg-light-blue-A700:focus {
+  background-color: #0071b7;
+}
+.material-design-text-cyan {
+  color: #00bcd4;
+}
+a.material-design-text-cyan:hover,
+a.material-design-text-cyan:focus {
+  color: #00acc1;
+}
+.material-design-text-cyan-50 {
+  color: #e0f7fa;
+}
+a.material-design-text-cyan-50:hover,
+a.material-design-text-cyan-50:focus {
+  color: #b2ebf2;
+}
+.material-design-text-cyan-100 {
+  color: #b2ebf2;
+}
+a.material-design-text-cyan-100:hover,
+a.material-design-text-cyan-100:focus {
+  color: #80deea;
+}
+.material-design-text-cyan-200 {
+  color: #80deea;
+}
+a.material-design-text-cyan-200:hover,
+a.material-design-text-cyan-200:focus {
+  color: #4dd0e1;
+}
+.material-design-text-cyan-300 {
+  color: #4dd0e1;
+}
+a.material-design-text-cyan-300:hover,
+a.material-design-text-cyan-300:focus {
+  color: #26c6da;
+}
+.material-design-text-cyan-400 {
+  color: #26c6da;
+}
+a.material-design-text-cyan-400:hover,
+a.material-design-text-cyan-400:focus {
+  color: #00bcd4;
+}
+.material-design-text-cyan-500 {
+  color: #00bcd4;
+}
+a.material-design-text-cyan-500:hover,
+a.material-design-text-cyan-500:focus {
+  color: #00acc1;
+}
+.material-design-text-cyan-600 {
+  color: #00acc1;
+}
+a.material-design-text-cyan-600:hover,
+a.material-design-text-cyan-600:focus {
+  color: #0097a7;
+}
+.material-design-text-cyan-700 {
+  color: #0097a7;
+}
+a.material-design-text-cyan-700:hover,
+a.material-design-text-cyan-700:focus {
+  color: #00838f;
+}
+.material-design-text-cyan-800 {
+  color: #00838f;
+}
+a.material-design-text-cyan-800:hover,
+a.material-design-text-cyan-800:focus {
+  color: #006064;
+}
+.material-design-text-cyan-900 {
+  color: #006064;
+}
+a.material-design-text-cyan-900:hover,
+a.material-design-text-cyan-900:focus {
+  color: #002f31;
+}
+.material-design-text-cyan-A100 {
+  color: #84ffff;
+}
+a.material-design-text-cyan-A100:hover,
+a.material-design-text-cyan-A100:focus {
+  color: #51ffff;
+}
+.material-design-text-cyan-A200 {
+  color: #18ffff;
+}
+a.material-design-text-cyan-A200:hover,
+a.material-design-text-cyan-A200:focus {
+  color: #00e4e4;
+}
+.material-design-text-cyan-A400 {
+  color: #00e5ff;
+}
+a.material-design-text-cyan-A400:hover,
+a.material-design-text-cyan-A400:focus {
+  color: #00b7cc;
+}
+.material-design-text-cyan-A700 {
+  color: #00b8d4;
+}
+a.material-design-text-cyan-A700:hover,
+a.material-design-text-cyan-A700:focus {
+  color: #008ca1;
+}
+.material-design-bg-cyan {
+  background-color: #00bcd4;
+}
+a.material-design-bg-cyan:hover,
+a.material-design-bg-cyan:focus {
+  background-color: #00acc1;
+}
+.material-design-bg-cyan-50 {
+  background-color: #e0f7fa;
+}
+a.material-design-bg-cyan-50:hover,
+a.material-design-bg-cyan-50:focus {
+  background-color: #b2ebf2;
+}
+.material-design-bg-cyan-100 {
+  background-color: #b2ebf2;
+}
+a.material-design-bg-cyan-100:hover,
+a.material-design-bg-cyan-100:focus {
+  background-color: #80deea;
+}
+.material-design-bg-cyan-200 {
+  background-color: #80deea;
+}
+a.material-design-bg-cyan-200:hover,
+a.material-design-bg-cyan-200:focus {
+  background-color: #4dd0e1;
+}
+.material-design-bg-cyan-300 {
+  background-color: #4dd0e1;
+}
+a.material-design-bg-cyan-300:hover,
+a.material-design-bg-cyan-300:focus {
+  background-color: #26c6da;
+}
+.material-design-bg-cyan-400 {
+  background-color: #26c6da;
+}
+a.material-design-bg-cyan-400:hover,
+a.material-design-bg-cyan-400:focus {
+  background-color: #00bcd4;
+}
+.material-design-bg-cyan-500 {
+  background-color: #00bcd4;
+}
+a.material-design-bg-cyan-500:hover,
+a.material-design-bg-cyan-500:focus {
+  background-color: #00acc1;
+}
+.material-design-bg-cyan-600 {
+  background-color: #00acc1;
+}
+a.material-design-bg-cyan-600:hover,
+a.material-design-bg-cyan-600:focus {
+  background-color: #0097a7;
+}
+.material-design-bg-cyan-700 {
+  background-color: #0097a7;
+}
+a.material-design-bg-cyan-700:hover,
+a.material-design-bg-cyan-700:focus {
+  background-color: #00838f;
+}
+.material-design-bg-cyan-800 {
+  background-color: #00838f;
+}
+a.material-design-bg-cyan-800:hover,
+a.material-design-bg-cyan-800:focus {
+  background-color: #006064;
+}
+.material-design-bg-cyan-900 {
+  background-color: #006064;
+}
+a.material-design-bg-cyan-900:hover,
+a.material-design-bg-cyan-900:focus {
+  background-color: #002f31;
+}
+.material-design-bg-cyan-A100 {
+  background-color: #84ffff;
+}
+a.material-design-bg-cyan-A100:hover,
+a.material-design-bg-cyan-A100:focus {
+  background-color: #51ffff;
+}
+.material-design-bg-cyan-A200 {
+  background-color: #18ffff;
+}
+a.material-design-bg-cyan-A200:hover,
+a.material-design-bg-cyan-A200:focus {
+  background-color: #00e4e4;
+}
+.material-design-bg-cyan-A400 {
+  background-color: #00e5ff;
+}
+a.material-design-bg-cyan-A400:hover,
+a.material-design-bg-cyan-A400:focus {
+  background-color: #00b7cc;
+}
+.material-design-bg-cyan-A700 {
+  background-color: #00b8d4;
+}
+a.material-design-bg-cyan-A700:hover,
+a.material-design-bg-cyan-A700:focus {
+  background-color: #008ca1;
+}
+.material-design-text-teal {
+  color: #009688;
+}
+a.material-design-text-teal:hover,
+a.material-design-text-teal:focus {
+  color: #00897b;
+}
+.material-design-text-teal-50 {
+  color: #e0f2f1;
+}
+a.material-design-text-teal-50:hover,
+a.material-design-text-teal-50:focus {
+  color: #b2dfdb;
+}
+.material-design-text-teal-100 {
+  color: #b2dfdb;
+}
+a.material-design-text-teal-100:hover,
+a.material-design-text-teal-100:focus {
+  color: #80cbc4;
+}
+.material-design-text-teal-200 {
+  color: #80cbc4;
+}
+a.material-design-text-teal-200:hover,
+a.material-design-text-teal-200:focus {
+  color: #4db6ac;
+}
+.material-design-text-teal-300 {
+  color: #4db6ac;
+}
+a.material-design-text-teal-300:hover,
+a.material-design-text-teal-300:focus {
+  color: #26a69a;
+}
+.material-design-text-teal-400 {
+  color: #26a69a;
+}
+a.material-design-text-teal-400:hover,
+a.material-design-text-teal-400:focus {
+  color: #009688;
+}
+.material-design-text-teal-500 {
+  color: #009688;
+}
+a.material-design-text-teal-500:hover,
+a.material-design-text-teal-500:focus {
+  color: #00897b;
+}
+.material-design-text-teal-600 {
+  color: #00897b;
+}
+a.material-design-text-teal-600:hover,
+a.material-design-text-teal-600:focus {
+  color: #00796b;
+}
+.material-design-text-teal-700 {
+  color: #00796b;
+}
+a.material-design-text-teal-700:hover,
+a.material-design-text-teal-700:focus {
+  color: #00695c;
+}
+.material-design-text-teal-800 {
+  color: #00695c;
+}
+a.material-design-text-teal-800:hover,
+a.material-design-text-teal-800:focus {
+  color: #004d40;
+}
+.material-design-text-teal-900 {
+  color: #004d40;
+}
+a.material-design-text-teal-900:hover,
+a.material-design-text-teal-900:focus {
+  color: #001a16;
+}
+.material-design-text-teal-A100 {
+  color: #a7ffeb;
+}
+a.material-design-text-teal-A100:hover,
+a.material-design-text-teal-A100:focus {
+  color: #74ffdf;
+}
+.material-design-text-teal-A200 {
+  color: #64ffda;
+}
+a.material-design-text-teal-A200:hover,
+a.material-design-text-teal-A200:focus {
+  color: #31ffce;
+}
+.material-design-text-teal-A400 {
+  color: #1de9b6;
+}
+a.material-design-text-teal-A400:hover,
+a.material-design-text-teal-A400:focus {
+  color: #13c095;
+}
+.material-design-text-teal-A700 {
+  color: #00bfa5;
+}
+a.material-design-text-teal-A700:hover,
+a.material-design-text-teal-A700:focus {
+  color: #008c79;
+}
+.material-design-bg-teal {
+  background-color: #009688;
+}
+a.material-design-bg-teal:hover,
+a.material-design-bg-teal:focus {
+  background-color: #00897b;
+}
+.material-design-bg-teal-50 {
+  background-color: #e0f2f1;
+}
+a.material-design-bg-teal-50:hover,
+a.material-design-bg-teal-50:focus {
+  background-color: #b2dfdb;
+}
+.material-design-bg-teal-100 {
+  background-color: #b2dfdb;
+}
+a.material-design-bg-teal-100:hover,
+a.material-design-bg-teal-100:focus {
+  background-color: #80cbc4;
+}
+.material-design-bg-teal-200 {
+  background-color: #80cbc4;
+}
+a.material-design-bg-teal-200:hover,
+a.material-design-bg-teal-200:focus {
+  background-color: #4db6ac;
+}
+.material-design-bg-teal-300 {
+  background-color: #4db6ac;
+}
+a.material-design-bg-teal-300:hover,
+a.material-design-bg-teal-300:focus {
+  background-color: #26a69a;
+}
+.material-design-bg-teal-400 {
+  background-color: #26a69a;
+}
+a.material-design-bg-teal-400:hover,
+a.material-design-bg-teal-400:focus {
+  background-color: #009688;
+}
+.material-design-bg-teal-500 {
+  background-color: #009688;
+}
+a.material-design-bg-teal-500:hover,
+a.material-design-bg-teal-500:focus {
+  background-color: #00897b;
+}
+.material-design-bg-teal-600 {
+  background-color: #00897b;
+}
+a.material-design-bg-teal-600:hover,
+a.material-design-bg-teal-600:focus {
+  background-color: #00796b;
+}
+.material-design-bg-teal-700 {
+  background-color: #00796b;
+}
+a.material-design-bg-teal-700:hover,
+a.material-design-bg-teal-700:focus {
+  background-color: #00695c;
+}
+.material-design-bg-teal-800 {
+  background-color: #00695c;
+}
+a.material-design-bg-teal-800:hover,
+a.material-design-bg-teal-800:focus {
+  background-color: #004d40;
+}
+.material-design-bg-teal-900 {
+  background-color: #004d40;
+}
+a.material-design-bg-teal-900:hover,
+a.material-design-bg-teal-900:focus {
+  background-color: #001a16;
+}
+.material-design-bg-teal-A100 {
+  background-color: #a7ffeb;
+}
+a.material-design-bg-teal-A100:hover,
+a.material-design-bg-teal-A100:focus {
+  background-color: #74ffdf;
+}
+.material-design-bg-teal-A200 {
+  background-color: #64ffda;
+}
+a.material-design-bg-teal-A200:hover,
+a.material-design-bg-teal-A200:focus {
+  background-color: #31ffce;
+}
+.material-design-bg-teal-A400 {
+  background-color: #1de9b6;
+}
+a.material-design-bg-teal-A400:hover,
+a.material-design-bg-teal-A400:focus {
+  background-color: #13c095;
+}
+.material-design-bg-teal-A700 {
+  background-color: #00bfa5;
+}
+a.material-design-bg-teal-A700:hover,
+a.material-design-bg-teal-A700:focus {
+  background-color: #008c79;
+}
+.material-design-text-green {
+  color: #4caf50;
+}
+a.material-design-text-green:hover,
+a.material-design-text-green:focus {
+  color: #43a047;
+}
+.material-design-text-green-50 {
+  color: #e8f5e9;
+}
+a.material-design-text-green-50:hover,
+a.material-design-text-green-50:focus {
+  color: #c8e6c9;
+}
+.material-design-text-green-100 {
+  color: #c8e6c9;
+}
+a.material-design-text-green-100:hover,
+a.material-design-text-green-100:focus {
+  color: #a5d6a7;
+}
+.material-design-text-green-200 {
+  color: #a5d6a7;
+}
+a.material-design-text-green-200:hover,
+a.material-design-text-green-200:focus {
+  color: #81c784;
+}
+.material-design-text-green-300 {
+  color: #81c784;
+}
+a.material-design-text-green-300:hover,
+a.material-design-text-green-300:focus {
+  color: #66bb6a;
+}
+.material-design-text-green-400 {
+  color: #66bb6a;
+}
+a.material-design-text-green-400:hover,
+a.material-design-text-green-400:focus {
+  color: #4caf50;
+}
+.material-design-text-green-500 {
+  color: #4caf50;
+}
+a.material-design-text-green-500:hover,
+a.material-design-text-green-500:focus {
+  color: #43a047;
+}
+.material-design-text-green-600 {
+  color: #43a047;
+}
+a.material-design-text-green-600:hover,
+a.material-design-text-green-600:focus {
+  color: #388e3c;
+}
+.material-design-text-green-700 {
+  color: #388e3c;
+}
+a.material-design-text-green-700:hover,
+a.material-design-text-green-700:focus {
+  color: #2e7d32;
+}
+.material-design-text-green-800 {
+  color: #2e7d32;
+}
+a.material-design-text-green-800:hover,
+a.material-design-text-green-800:focus {
+  color: #1b5e20;
+}
+.material-design-text-green-900 {
+  color: #1b5e20;
+}
+a.material-design-text-green-900:hover,
+a.material-design-text-green-900:focus {
+  color: #103613;
+}
+.material-design-text-green-A100 {
+  color: #b9f6ca;
+}
+a.material-design-text-green-A100:hover,
+a.material-design-text-green-A100:focus {
+  color: #8cf0a8;
+}
+.material-design-text-green-A200 {
+  color: #69f0ae;
+}
+a.material-design-text-green-A200:hover,
+a.material-design-text-green-A200:focus {
+  color: #3beb95;
+}
+.material-design-text-green-A400 {
+  color: #00e676;
+}
+a.material-design-text-green-A400:hover,
+a.material-design-text-green-A400:focus {
+  color: #00b35c;
+}
+.material-design-text-green-A700 {
+  color: #00c853;
+}
+a.material-design-text-green-A700:hover,
+a.material-design-text-green-A700:focus {
+  color: #00953e;
+}
+.material-design-bg-green {
+  background-color: #4caf50;
+}
+a.material-design-bg-green:hover,
+a.material-design-bg-green:focus {
+  background-color: #43a047;
+}
+.material-design-bg-green-50 {
+  background-color: #e8f5e9;
+}
+a.material-design-bg-green-50:hover,
+a.material-design-bg-green-50:focus {
+  background-color: #c8e6c9;
+}
+.material-design-bg-green-100 {
+  background-color: #c8e6c9;
+}
+a.material-design-bg-green-100:hover,
+a.material-design-bg-green-100:focus {
+  background-color: #a5d6a7;
+}
+.material-design-bg-green-200 {
+  background-color: #a5d6a7;
+}
+a.material-design-bg-green-200:hover,
+a.material-design-bg-green-200:focus {
+  background-color: #81c784;
+}
+.material-design-bg-green-300 {
+  background-color: #81c784;
+}
+a.material-design-bg-green-300:hover,
+a.material-design-bg-green-300:focus {
+  background-color: #66bb6a;
+}
+.material-design-bg-green-400 {
+  background-color: #66bb6a;
+}
+a.material-design-bg-green-400:hover,
+a.material-design-bg-green-400:focus {
+  background-color: #4caf50;
+}
+.material-design-bg-green-500 {
+  background-color: #4caf50;
+}
+a.material-design-bg-green-500:hover,
+a.material-design-bg-green-500:focus {
+  background-color: #43a047;
+}
+.material-design-bg-green-600 {
+  background-color: #43a047;
+}
+a.material-design-bg-green-600:hover,
+a.material-design-bg-green-600:focus {
+  background-color: #388e3c;
+}
+.material-design-bg-green-700 {
+  background-color: #388e3c;
+}
+a.material-design-bg-green-700:hover,
+a.material-design-bg-green-700:focus {
+  background-color: #2e7d32;
+}
+.material-design-bg-green-800 {
+  background-color: #2e7d32;
+}
+a.material-design-bg-green-800:hover,
+a.material-design-bg-green-800:focus {
+  background-color: #1b5e20;
+}
+.material-design-bg-green-900 {
+  background-color: #1b5e20;
+}
+a.material-design-bg-green-900:hover,
+a.material-design-bg-green-900:focus {
+  background-color: #103613;
+}
+.material-design-bg-green-A100 {
+  background-color: #b9f6ca;
+}
+a.material-design-bg-green-A100:hover,
+a.material-design-bg-green-A100:focus {
+  background-color: #8cf0a8;
+}
+.material-design-bg-green-A200 {
+  background-color: #69f0ae;
+}
+a.material-design-bg-green-A200:hover,
+a.material-design-bg-green-A200:focus {
+  background-color: #3beb95;
+}
+.material-design-bg-green-A400 {
+  background-color: #00e676;
+}
+a.material-design-bg-green-A400:hover,
+a.material-design-bg-green-A400:focus {
+  background-color: #00b35c;
+}
+.material-design-bg-green-A700 {
+  background-color: #00c853;
+}
+a.material-design-bg-green-A700:hover,
+a.material-design-bg-green-A700:focus {
+  background-color: #00953e;
+}
+.material-design-text-light-green {
+  color: #8bc34a;
+}
+a.material-design-text-light-green:hover,
+a.material-design-text-light-green:focus {
+  color: #7cb342;
+}
+.material-design-text-light-green-50 {
+  color: #f1f8e9;
+}
+a.material-design-text-light-green-50:hover,
+a.material-design-text-light-green-50:focus {
+  color: #dcedc8;
+}
+.material-design-text-light-green-100 {
+  color: #dcedc8;
+}
+a.material-design-text-light-green-100:hover,
+a.material-design-text-light-green-100:focus {
+  color: #c5e1a5;
+}
+.material-design-text-light-green-200 {
+  color: #c5e1a5;
+}
+a.material-design-text-light-green-200:hover,
+a.material-design-text-light-green-200:focus {
+  color: #aed581;
+}
+.material-design-text-light-green-300 {
+  color: #aed581;
+}
+a.material-design-text-light-green-300:hover,
+a.material-design-text-light-green-300:focus {
+  color: #9ccc65;
+}
+.material-design-text-light-green-400 {
+  color: #9ccc65;
+}
+a.material-design-text-light-green-400:hover,
+a.material-design-text-light-green-400:focus {
+  color: #8bc34a;
+}
+.material-design-text-light-green-500 {
+  color: #8bc34a;
+}
+a.material-design-text-light-green-500:hover,
+a.material-design-text-light-green-500:focus {
+  color: #7cb342;
+}
+.material-design-text-light-green-600 {
+  color: #7cb342;
+}
+a.material-design-text-light-green-600:hover,
+a.material-design-text-light-green-600:focus {
+  color: #689f38;
+}
+.material-design-text-light-green-700 {
+  color: #689f38;
+}
+a.material-design-text-light-green-700:hover,
+a.material-design-text-light-green-700:focus {
+  color: #558b2f;
+}
+.material-design-text-light-green-800 {
+  color: #558b2f;
+}
+a.material-design-text-light-green-800:hover,
+a.material-design-text-light-green-800:focus {
+  color: #33691e;
+}
+.material-design-text-light-green-900 {
+  color: #33691e;
+}
+a.material-design-text-light-green-900:hover,
+a.material-design-text-light-green-900:focus {
+  color: #204113;
+}
+.material-design-text-light-green-A100 {
+  color: #ccff90;
+}
+a.material-design-text-light-green-A100:hover,
+a.material-design-text-light-green-A100:focus {
+  color: #b5ff5d;
+}
+.material-design-text-light-green-A200 {
+  color: #b2ff59;
+}
+a.material-design-text-light-green-A200:hover,
+a.material-design-text-light-green-A200:focus {
+  color: #9aff26;
+}
+.material-design-text-light-green-A400 {
+  color: #76ff03;
+}
+a.material-design-text-light-green-A400:hover,
+a.material-design-text-light-green-A400:focus {
+  color: #5ecf00;
+}
+.material-design-text-light-green-A700 {
+  color: #64dd17;
+}
+a.material-design-text-light-green-A700:hover,
+a.material-design-text-light-green-A700:focus {
+  color: #4faf12;
+}
+.material-design-bg-light-green {
+  background-color: #8bc34a;
+}
+a.material-design-bg-light-green:hover,
+a.material-design-bg-light-green:focus {
+  background-color: #7cb342;
+}
+.material-design-bg-light-green-50 {
+  background-color: #f1f8e9;
+}
+a.material-design-bg-light-green-50:hover,
+a.material-design-bg-light-green-50:focus {
+  background-color: #dcedc8;
+}
+.material-design-bg-light-green-100 {
+  background-color: #dcedc8;
+}
+a.material-design-bg-light-green-100:hover,
+a.material-design-bg-light-green-100:focus {
+  background-color: #c5e1a5;
+}
+.material-design-bg-light-green-200 {
+  background-color: #c5e1a5;
+}
+a.material-design-bg-light-green-200:hover,
+a.material-design-bg-light-green-200:focus {
+  background-color: #aed581;
+}
+.material-design-bg-light-green-300 {
+  background-color: #aed581;
+}
+a.material-design-bg-light-green-300:hover,
+a.material-design-bg-light-green-300:focus {
+  background-color: #9ccc65;
+}
+.material-design-bg-light-green-400 {
+  background-color: #9ccc65;
+}
+a.material-design-bg-light-green-400:hover,
+a.material-design-bg-light-green-400:focus {
+  background-color: #8bc34a;
+}
+.material-design-bg-light-green-500 {
+  background-color: #8bc34a;
+}
+a.material-design-bg-light-green-500:hover,
+a.material-design-bg-light-green-500:focus {
+  background-color: #7cb342;
+}
+.material-design-bg-light-green-600 {
+  background-color: #7cb342;
+}
+a.material-design-bg-light-green-600:hover,
+a.material-design-bg-light-green-600:focus {
+  background-color: #689f38;
+}
+.material-design-bg-light-green-700 {
+  background-color: #689f38;
+}
+a.material-design-bg-light-green-700:hover,
+a.material-design-bg-light-green-700:focus {
+  background-color: #558b2f;
+}
+.material-design-bg-light-green-800 {
+  background-color: #558b2f;
+}
+a.material-design-bg-light-green-800:hover,
+a.material-design-bg-light-green-800:focus {
+  background-color: #33691e;
+}
+.material-design-bg-light-green-900 {
+  background-color: #33691e;
+}
+a.material-design-bg-light-green-900:hover,
+a.material-design-bg-light-green-900:focus {
+  background-color: #204113;
+}
+.material-design-bg-light-green-A100 {
+  background-color: #ccff90;
+}
+a.material-design-bg-light-green-A100:hover,
+a.material-design-bg-light-green-A100:focus {
+  background-color: #b5ff5d;
+}
+.material-design-bg-light-green-A200 {
+  background-color: #b2ff59;
+}
+a.material-design-bg-light-green-A200:hover,
+a.material-design-bg-light-green-A200:focus {
+  background-color: #9aff26;
+}
+.material-design-bg-light-green-A400 {
+  background-color: #76ff03;
+}
+a.material-design-bg-light-green-A400:hover,
+a.material-design-bg-light-green-A400:focus {
+  background-color: #5ecf00;
+}
+.material-design-bg-light-green-A700 {
+  background-color: #64dd17;
+}
+a.material-design-bg-light-green-A700:hover,
+a.material-design-bg-light-green-A700:focus {
+  background-color: #4faf12;
+}
+.material-design-text-lime {
+  color: #cddc39;
+}
+a.material-design-text-lime:hover,
+a.material-design-text-lime:focus {
+  color: #c0ca33;
+}
+.material-design-text-lime-50 {
+  color: #f9fbe7;
+}
+a.material-design-text-lime-50:hover,
+a.material-design-text-lime-50:focus {
+  color: #f0f4c3;
+}
+.material-design-text-lime-100 {
+  color: #f0f4c3;
+}
+a.material-design-text-lime-100:hover,
+a.material-design-text-lime-100:focus {
+  color: #e6ee9c;
+}
+.material-design-text-lime-200 {
+  color: #e6ee9c;
+}
+a.material-design-text-lime-200:hover,
+a.material-design-text-lime-200:focus {
+  color: #dce775;
+}
+.material-design-text-lime-300 {
+  color: #dce775;
+}
+a.material-design-text-lime-300:hover,
+a.material-design-text-lime-300:focus {
+  color: #d4e157;
+}
+.material-design-text-lime-400 {
+  color: #d4e157;
+}
+a.material-design-text-lime-400:hover,
+a.material-design-text-lime-400:focus {
+  color: #cddc39;
+}
+.material-design-text-lime-500 {
+  color: #cddc39;
+}
+a.material-design-text-lime-500:hover,
+a.material-design-text-lime-500:focus {
+  color: #c0ca33;
+}
+.material-design-text-lime-600 {
+  color: #c0ca33;
+}
+a.material-design-text-lime-600:hover,
+a.material-design-text-lime-600:focus {
+  color: #afb42b;
+}
+.material-design-text-lime-700 {
+  color: #afb42b;
+}
+a.material-design-text-lime-700:hover,
+a.material-design-text-lime-700:focus {
+  color: #9e9d24;
+}
+.material-design-text-lime-800 {
+  color: #9e9d24;
+}
+a.material-design-text-lime-800:hover,
+a.material-design-text-lime-800:focus {
+  color: #827717;
+}
+.material-design-text-lime-900 {
+  color: #827717;
+}
+a.material-design-text-lime-900:hover,
+a.material-design-text-lime-900:focus {
+  color: #574f0f;
+}
+.material-design-text-lime-A100 {
+  color: #f4ff81;
+}
+a.material-design-text-lime-A100:hover,
+a.material-design-text-lime-A100:focus {
+  color: #f0ff4e;
+}
+.material-design-text-lime-A200 {
+  color: #eeff41;
+}
+a.material-design-text-lime-A200:hover,
+a.material-design-text-lime-A200:focus {
+  color: #e9ff0e;
+}
+.material-design-text-lime-A400 {
+  color: #c6ff00;
+}
+a.material-design-text-lime-A400:hover,
+a.material-design-text-lime-A400:focus {
+  color: #9ecc00;
+}
+.material-design-text-lime-A700 {
+  color: #aeea00;
+}
+a.material-design-text-lime-A700:hover,
+a.material-design-text-lime-A700:focus {
+  color: #88b700;
+}
+.material-design-bg-lime {
+  background-color: #cddc39;
+}
+a.material-design-bg-lime:hover,
+a.material-design-bg-lime:focus {
+  background-color: #c0ca33;
+}
+.material-design-bg-lime-50 {
+  background-color: #f9fbe7;
+}
+a.material-design-bg-lime-50:hover,
+a.material-design-bg-lime-50:focus {
+  background-color: #f0f4c3;
+}
+.material-design-bg-lime-100 {
+  background-color: #f0f4c3;
+}
+a.material-design-bg-lime-100:hover,
+a.material-design-bg-lime-100:focus {
+  background-color: #e6ee9c;
+}
+.material-design-bg-lime-200 {
+  background-color: #e6ee9c;
+}
+a.material-design-bg-lime-200:hover,
+a.material-design-bg-lime-200:focus {
+  background-color: #dce775;
+}
+.material-design-bg-lime-300 {
+  background-color: #dce775;
+}
+a.material-design-bg-lime-300:hover,
+a.material-design-bg-lime-300:focus {
+  background-color: #d4e157;
+}
+.material-design-bg-lime-400 {
+  background-color: #d4e157;
+}
+a.material-design-bg-lime-400:hover,
+a.material-design-bg-lime-400:focus {
+  background-color: #cddc39;
+}
+.material-design-bg-lime-500 {
+  background-color: #cddc39;
+}
+a.material-design-bg-lime-500:hover,
+a.material-design-bg-lime-500:focus {
+  background-color: #c0ca33;
+}
+.material-design-bg-lime-600 {
+  background-color: #c0ca33;
+}
+a.material-design-bg-lime-600:hover,
+a.material-design-bg-lime-600:focus {
+  background-color: #afb42b;
+}
+.material-design-bg-lime-700 {
+  background-color: #afb42b;
+}
+a.material-design-bg-lime-700:hover,
+a.material-design-bg-lime-700:focus {
+  background-color: #9e9d24;
+}
+.material-design-bg-lime-800 {
+  background-color: #9e9d24;
+}
+a.material-design-bg-lime-800:hover,
+a.material-design-bg-lime-800:focus {
+  background-color: #827717;
+}
+.material-design-bg-lime-900 {
+  background-color: #827717;
+}
+a.material-design-bg-lime-900:hover,
+a.material-design-bg-lime-900:focus {
+  background-color: #574f0f;
+}
+.material-design-bg-lime-A100 {
+  background-color: #f4ff81;
+}
+a.material-design-bg-lime-A100:hover,
+a.material-design-bg-lime-A100:focus {
+  background-color: #f0ff4e;
+}
+.material-design-bg-lime-A200 {
+  background-color: #eeff41;
+}
+a.material-design-bg-lime-A200:hover,
+a.material-design-bg-lime-A200:focus {
+  background-color: #e9ff0e;
+}
+.material-design-bg-lime-A400 {
+  background-color: #c6ff00;
+}
+a.material-design-bg-lime-A400:hover,
+a.material-design-bg-lime-A400:focus {
+  background-color: #9ecc00;
+}
+.material-design-bg-lime-A700 {
+  background-color: #aeea00;
+}
+a.material-design-bg-lime-A700:hover,
+a.material-design-bg-lime-A700:focus {
+  background-color: #88b700;
+}
+.material-design-text-yellow {
+  color: #ffeb3b;
+}
+a.material-design-text-yellow:hover,
+a.material-design-text-yellow:focus {
+  color: #fdd835;
+}
+.material-design-text-yellow-50 {
+  color: #fffde7;
+}
+a.material-design-text-yellow-50:hover,
+a.material-design-text-yellow-50:focus {
+  color: #fff9c4;
+}
+.material-design-text-yellow-100 {
+  color: #fff9c4;
+}
+a.material-design-text-yellow-100:hover,
+a.material-design-text-yellow-100:focus {
+  color: #fff59d;
+}
+.material-design-text-yellow-200 {
+  color: #fff59d;
+}
+a.material-design-text-yellow-200:hover,
+a.material-design-text-yellow-200:focus {
+  color: #fff176;
+}
+.material-design-text-yellow-300 {
+  color: #fff176;
+}
+a.material-design-text-yellow-300:hover,
+a.material-design-text-yellow-300:focus {
+  color: #ffee58;
+}
+.material-design-text-yellow-400 {
+  color: #ffee58;
+}
+a.material-design-text-yellow-400:hover,
+a.material-design-text-yellow-400:focus {
+  color: #ffeb3b;
+}
+.material-design-text-yellow-500 {
+  color: #ffeb3b;
+}
+a.material-design-text-yellow-500:hover,
+a.material-design-text-yellow-500:focus {
+  color: #fdd835;
+}
+.material-design-text-yellow-600 {
+  color: #fdd835;
+}
+a.material-design-text-yellow-600:hover,
+a.material-design-text-yellow-600:focus {
+  color: #fbc02d;
+}
+.material-design-text-yellow-700 {
+  color: #fbc02d;
+}
+a.material-design-text-yellow-700:hover,
+a.material-design-text-yellow-700:focus {
+  color: #f9a825;
+}
+.material-design-text-yellow-800 {
+  color: #f9a825;
+}
+a.material-design-text-yellow-800:hover,
+a.material-design-text-yellow-800:focus {
+  color: #f57f17;
+}
+.material-design-text-yellow-900 {
+  color: #f57f17;
+}
+a.material-design-text-yellow-900:hover,
+a.material-design-text-yellow-900:focus {
+  color: #d06609;
+}
+.material-design-text-yellow-A100 {
+  color: #ffff8d;
+}
+a.material-design-text-yellow-A100:hover,
+a.material-design-text-yellow-A100:focus {
+  color: #ffff5a;
+}
+.material-design-text-yellow-A200 {
+  color: #ffff00;
+}
+a.material-design-text-yellow-A200:hover,
+a.material-design-text-yellow-A200:focus {
+  color: #cccc00;
+}
+.material-design-text-yellow-A400 {
+  color: #ffea00;
+}
+a.material-design-text-yellow-A400:hover,
+a.material-design-text-yellow-A400:focus {
+  color: #ccbb00;
+}
+.material-design-text-yellow-A700 {
+  color: #ffd600;
+}
+a.material-design-text-yellow-A700:hover,
+a.material-design-text-yellow-A700:focus {
+  color: #ccab00;
+}
+.material-design-bg-yellow {
+  background-color: #ffeb3b;
+}
+a.material-design-bg-yellow:hover,
+a.material-design-bg-yellow:focus {
+  background-color: #fdd835;
+}
+.material-design-bg-yellow-50 {
+  background-color: #fffde7;
+}
+a.material-design-bg-yellow-50:hover,
+a.material-design-bg-yellow-50:focus {
+  background-color: #fff9c4;
+}
+.material-design-bg-yellow-100 {
+  background-color: #fff9c4;
+}
+a.material-design-bg-yellow-100:hover,
+a.material-design-bg-yellow-100:focus {
+  background-color: #fff59d;
+}
+.material-design-bg-yellow-200 {
+  background-color: #fff59d;
+}
+a.material-design-bg-yellow-200:hover,
+a.material-design-bg-yellow-200:focus {
+  background-color: #fff176;
+}
+.material-design-bg-yellow-300 {
+  background-color: #fff176;
+}
+a.material-design-bg-yellow-300:hover,
+a.material-design-bg-yellow-300:focus {
+  background-color: #ffee58;
+}
+.material-design-bg-yellow-400 {
+  background-color: #ffee58;
+}
+a.material-design-bg-yellow-400:hover,
+a.material-design-bg-yellow-400:focus {
+  background-color: #ffeb3b;
+}
+.material-design-bg-yellow-500 {
+  background-color: #ffeb3b;
+}
+a.material-design-bg-yellow-500:hover,
+a.material-design-bg-yellow-500:focus {
+  background-color: #fdd835;
+}
+.material-design-bg-yellow-600 {
+  background-color: #fdd835;
+}
+a.material-design-bg-yellow-600:hover,
+a.material-design-bg-yellow-600:focus {
+  background-color: #fbc02d;
+}
+.material-design-bg-yellow-700 {
+  background-color: #fbc02d;
+}
+a.material-design-bg-yellow-700:hover,
+a.material-design-bg-yellow-700:focus {
+  background-color: #f9a825;
+}
+.material-design-bg-yellow-800 {
+  background-color: #f9a825;
+}
+a.material-design-bg-yellow-800:hover,
+a.material-design-bg-yellow-800:focus {
+  background-color: #f57f17;
+}
+.material-design-bg-yellow-900 {
+  background-color: #f57f17;
+}
+a.material-design-bg-yellow-900:hover,
+a.material-design-bg-yellow-900:focus {
+  background-color: #d06609;
+}
+.material-design-bg-yellow-A100 {
+  background-color: #ffff8d;
+}
+a.material-design-bg-yellow-A100:hover,
+a.material-design-bg-yellow-A100:focus {
+  background-color: #ffff5a;
+}
+.material-design-bg-yellow-A200 {
+  background-color: #ffff00;
+}
+a.material-design-bg-yellow-A200:hover,
+a.material-design-bg-yellow-A200:focus {
+  background-color: #cccc00;
+}
+.material-design-bg-yellow-A400 {
+  background-color: #ffea00;
+}
+a.material-design-bg-yellow-A400:hover,
+a.material-design-bg-yellow-A400:focus {
+  background-color: #ccbb00;
+}
+.material-design-bg-yellow-A700 {
+  background-color: #ffd600;
+}
+a.material-design-bg-yellow-A700:hover,
+a.material-design-bg-yellow-A700:focus {
+  background-color: #ccab00;
+}
+.material-design-text-amber {
+  color: #ffc107;
+}
+a.material-design-text-amber:hover,
+a.material-design-text-amber:focus {
+  color: #ffb300;
+}
+.material-design-text-amber-50 {
+  color: #fff8e1;
+}
+a.material-design-text-amber-50:hover,
+a.material-design-text-amber-50:focus {
+  color: #ffecb3;
+}
+.material-design-text-amber-100 {
+  color: #ffecb3;
+}
+a.material-design-text-amber-100:hover,
+a.material-design-text-amber-100:focus {
+  color: #ffe082;
+}
+.material-design-text-amber-200 {
+  color: #ffe082;
+}
+a.material-design-text-amber-200:hover,
+a.material-design-text-amber-200:focus {
+  color: #ffd54f;
+}
+.material-design-text-amber-300 {
+  color: #ffd54f;
+}
+a.material-design-text-amber-300:hover,
+a.material-design-text-amber-300:focus {
+  color: #ffca28;
+}
+.material-design-text-amber-400 {
+  color: #ffca28;
+}
+a.material-design-text-amber-400:hover,
+a.material-design-text-amber-400:focus {
+  color: #ffc107;
+}
+.material-design-text-amber-500 {
+  color: #ffc107;
+}
+a.material-design-text-amber-500:hover,
+a.material-design-text-amber-500:focus {
+  color: #ffb300;
+}
+.material-design-text-amber-600 {
+  color: #ffb300;
+}
+a.material-design-text-amber-600:hover,
+a.material-design-text-amber-600:focus {
+  color: #ffa000;
+}
+.material-design-text-amber-700 {
+  color: #ffa000;
+}
+a.material-design-text-amber-700:hover,
+a.material-design-text-amber-700:focus {
+  color: #ff8f00;
+}
+.material-design-text-amber-800 {
+  color: #ff8f00;
+}
+a.material-design-text-amber-800:hover,
+a.material-design-text-amber-800:focus {
+  color: #ff6f00;
+}
+.material-design-text-amber-900 {
+  color: #ff6f00;
+}
+a.material-design-text-amber-900:hover,
+a.material-design-text-amber-900:focus {
+  color: #cc5900;
+}
+.material-design-text-amber-A100 {
+  color: #ffe57f;
+}
+a.material-design-text-amber-A100:hover,
+a.material-design-text-amber-A100:focus {
+  color: #ffdb4c;
+}
+.material-design-text-amber-A200 {
+  color: #ffd740;
+}
+a.material-design-text-amber-A200:hover,
+a.material-design-text-amber-A200:focus {
+  color: #ffcc0d;
+}
+.material-design-text-amber-A400 {
+  color: #ffc400;
+}
+a.material-design-text-amber-A400:hover,
+a.material-design-text-amber-A400:focus {
+  color: #cc9d00;
+}
+.material-design-text-amber-A700 {
+  color: #ffab00;
+}
+a.material-design-text-amber-A700:hover,
+a.material-design-text-amber-A700:focus {
+  color: #cc8900;
+}
+.material-design-bg-amber {
+  background-color: #ffc107;
+}
+a.material-design-bg-amber:hover,
+a.material-design-bg-amber:focus {
+  background-color: #ffb300;
+}
+.material-design-bg-amber-50 {
+  background-color: #fff8e1;
+}
+a.material-design-bg-amber-50:hover,
+a.material-design-bg-amber-50:focus {
+  background-color: #ffecb3;
+}
+.material-design-bg-amber-100 {
+  background-color: #ffecb3;
+}
+a.material-design-bg-amber-100:hover,
+a.material-design-bg-amber-100:focus {
+  background-color: #ffe082;
+}
+.material-design-bg-amber-200 {
+  background-color: #ffe082;
+}
+a.material-design-bg-amber-200:hover,
+a.material-design-bg-amber-200:focus {
+  background-color: #ffd54f;
+}
+.material-design-bg-amber-300 {
+  background-color: #ffd54f;
+}
+a.material-design-bg-amber-300:hover,
+a.material-design-bg-amber-300:focus {
+  background-color: #ffca28;
+}
+.material-design-bg-amber-400 {
+  background-color: #ffca28;
+}
+a.material-design-bg-amber-400:hover,
+a.material-design-bg-amber-400:focus {
+  background-color: #ffc107;
+}
+.material-design-bg-amber-500 {
+  background-color: #ffc107;
+}
+a.material-design-bg-amber-500:hover,
+a.material-design-bg-amber-500:focus {
+  background-color: #ffb300;
+}
+.material-design-bg-amber-600 {
+  background-color: #ffb300;
+}
+a.material-design-bg-amber-600:hover,
+a.material-design-bg-amber-600:focus {
+  background-color: #ffa000;
+}
+.material-design-bg-amber-700 {
+  background-color: #ffa000;
+}
+a.material-design-bg-amber-700:hover,
+a.material-design-bg-amber-700:focus {
+  background-color: #ff8f00;
+}
+.material-design-bg-amber-800 {
+  background-color: #ff8f00;
+}
+a.material-design-bg-amber-800:hover,
+a.material-design-bg-amber-800:focus {
+  background-color: #ff6f00;
+}
+.material-design-bg-amber-900 {
+  background-color: #ff6f00;
+}
+a.material-design-bg-amber-900:hover,
+a.material-design-bg-amber-900:focus {
+  background-color: #cc5900;
+}
+.material-design-bg-amber-A100 {
+  background-color: #ffe57f;
+}
+a.material-design-bg-amber-A100:hover,
+a.material-design-bg-amber-A100:focus {
+  background-color: #ffdb4c;
+}
+.material-design-bg-amber-A200 {
+  background-color: #ffd740;
+}
+a.material-design-bg-amber-A200:hover,
+a.material-design-bg-amber-A200:focus {
+  background-color: #ffcc0d;
+}
+.material-design-bg-amber-A400 {
+  background-color: #ffc400;
+}
+a.material-design-bg-amber-A400:hover,
+a.material-design-bg-amber-A400:focus {
+  background-color: #cc9d00;
+}
+.material-design-bg-amber-A700 {
+  background-color: #ffab00;
+}
+a.material-design-bg-amber-A700:hover,
+a.material-design-bg-amber-A700:focus {
+  background-color: #cc8900;
+}
+.material-design-text-orange {
+  color: #ff9800;
+}
+a.material-design-text-orange:hover,
+a.material-design-text-orange:focus {
+  color: #fb8c00;
+}
+.material-design-text-orange-50 {
+  color: #fff3e0;
+}
+a.material-design-text-orange-50:hover,
+a.material-design-text-orange-50:focus {
+  color: #ffe0b2;
+}
+.material-design-text-orange-100 {
+  color: #ffe0b2;
+}
+a.material-design-text-orange-100:hover,
+a.material-design-text-orange-100:focus {
+  color: #ffcc80;
+}
+.material-design-text-orange-200 {
+  color: #ffcc80;
+}
+a.material-design-text-orange-200:hover,
+a.material-design-text-orange-200:focus {
+  color: #ffb74d;
+}
+.material-design-text-orange-300 {
+  color: #ffb74d;
+}
+a.material-design-text-orange-300:hover,
+a.material-design-text-orange-300:focus {
+  color: #ffa726;
+}
+.material-design-text-orange-400 {
+  color: #ffa726;
+}
+a.material-design-text-orange-400:hover,
+a.material-design-text-orange-400:focus {
+  color: #ff9800;
+}
+.material-design-text-orange-500 {
+  color: #ff9800;
+}
+a.material-design-text-orange-500:hover,
+a.material-design-text-orange-500:focus {
+  color: #fb8c00;
+}
+.material-design-text-orange-600 {
+  color: #fb8c00;
+}
+a.material-design-text-orange-600:hover,
+a.material-design-text-orange-600:focus {
+  color: #f57c00;
+}
+.material-design-text-orange-700 {
+  color: #f57c00;
+}
+a.material-design-text-orange-700:hover,
+a.material-design-text-orange-700:focus {
+  color: #ef6c00;
+}
+.material-design-text-orange-800 {
+  color: #ef6c00;
+}
+a.material-design-text-orange-800:hover,
+a.material-design-text-orange-800:focus {
+  color: #e65100;
+}
+.material-design-text-orange-900 {
+  color: #e65100;
+}
+a.material-design-text-orange-900:hover,
+a.material-design-text-orange-900:focus {
+  color: #b33f00;
+}
+.material-design-text-orange-A100 {
+  color: #ffd180;
+}
+a.material-design-text-orange-A100:hover,
+a.material-design-text-orange-A100:focus {
+  color: #ffbf4d;
+}
+.material-design-text-orange-A200 {
+  color: #ffab40;
+}
+a.material-design-text-orange-A200:hover,
+a.material-design-text-orange-A200:focus {
+  color: #ff950d;
+}
+.material-design-text-orange-A400 {
+  color: #ff9100;
+}
+a.material-design-text-orange-A400:hover,
+a.material-design-text-orange-A400:focus {
+  color: #cc7400;
+}
+.material-design-text-orange-A700 {
+  color: #ff6d00;
+}
+a.material-design-text-orange-A700:hover,
+a.material-design-text-orange-A700:focus {
+  color: #cc5700;
+}
+.material-design-bg-orange {
+  background-color: #ff9800;
+}
+a.material-design-bg-orange:hover,
+a.material-design-bg-orange:focus {
+  background-color: #fb8c00;
+}
+.material-design-bg-orange-50 {
+  background-color: #fff3e0;
+}
+a.material-design-bg-orange-50:hover,
+a.material-design-bg-orange-50:focus {
+  background-color: #ffe0b2;
+}
+.material-design-bg-orange-100 {
+  background-color: #ffe0b2;
+}
+a.material-design-bg-orange-100:hover,
+a.material-design-bg-orange-100:focus {
+  background-color: #ffcc80;
+}
+.material-design-bg-orange-200 {
+  background-color: #ffcc80;
+}
+a.material-design-bg-orange-200:hover,
+a.material-design-bg-orange-200:focus {
+  background-color: #ffb74d;
+}
+.material-design-bg-orange-300 {
+  background-color: #ffb74d;
+}
+a.material-design-bg-orange-300:hover,
+a.material-design-bg-orange-300:focus {
+  background-color: #ffa726;
+}
+.material-design-bg-orange-400 {
+  background-color: #ffa726;
+}
+a.material-design-bg-orange-400:hover,
+a.material-design-bg-orange-400:focus {
+  background-color: #ff9800;
+}
+.material-design-bg-orange-500 {
+  background-color: #ff9800;
+}
+a.material-design-bg-orange-500:hover,
+a.material-design-bg-orange-500:focus {
+  background-color: #fb8c00;
+}
+.material-design-bg-orange-600 {
+  background-color: #fb8c00;
+}
+a.material-design-bg-orange-600:hover,
+a.material-design-bg-orange-600:focus {
+  background-color: #f57c00;
+}
+.material-design-bg-orange-700 {
+  background-color: #f57c00;
+}
+a.material-design-bg-orange-700:hover,
+a.material-design-bg-orange-700:focus {
+  background-color: #ef6c00;
+}
+.material-design-bg-orange-800 {
+  background-color: #ef6c00;
+}
+a.material-design-bg-orange-800:hover,
+a.material-design-bg-orange-800:focus {
+  background-color: #e65100;
+}
+.material-design-bg-orange-900 {
+  background-color: #e65100;
+}
+a.material-design-bg-orange-900:hover,
+a.material-design-bg-orange-900:focus {
+  background-color: #b33f00;
+}
+.material-design-bg-orange-A100 {
+  background-color: #ffd180;
+}
+a.material-design-bg-orange-A100:hover,
+a.material-design-bg-orange-A100:focus {
+  background-color: #ffbf4d;
+}
+.material-design-bg-orange-A200 {
+  background-color: #ffab40;
+}
+a.material-design-bg-orange-A200:hover,
+a.material-design-bg-orange-A200:focus {
+  background-color: #ff950d;
+}
+.material-design-bg-orange-A400 {
+  background-color: #ff9100;
+}
+a.material-design-bg-orange-A400:hover,
+a.material-design-bg-orange-A400:focus {
+  background-color: #cc7400;
+}
+.material-design-bg-orange-A700 {
+  background-color: #ff6d00;
+}
+a.material-design-bg-orange-A700:hover,
+a.material-design-bg-orange-A700:focus {
+  background-color: #cc5700;
+}
+.material-design-text-deep-orange {
+  color: #ff5722;
+}
+a.material-design-text-deep-orange:hover,
+a.material-design-text-deep-orange:focus {
+  color: #f4511e;
+}
+.material-design-text-deep-orange-50 {
+  color: #fbe9e7;
+}
+a.material-design-text-deep-orange-50:hover,
+a.material-design-text-deep-orange-50:focus {
+  color: #ffccbc;
+}
+.material-design-text-deep-orange-100 {
+  color: #ffccbc;
+}
+a.material-design-text-deep-orange-100:hover,
+a.material-design-text-deep-orange-100:focus {
+  color: #ffab91;
+}
+.material-design-text-deep-orange-200 {
+  color: #ffab91;
+}
+a.material-design-text-deep-orange-200:hover,
+a.material-design-text-deep-orange-200:focus {
+  color: #ff8a65;
+}
+.material-design-text-deep-orange-300 {
+  color: #ff8a65;
+}
+a.material-design-text-deep-orange-300:hover,
+a.material-design-text-deep-orange-300:focus {
+  color: #ff7043;
+}
+.material-design-text-deep-orange-400 {
+  color: #ff7043;
+}
+a.material-design-text-deep-orange-400:hover,
+a.material-design-text-deep-orange-400:focus {
+  color: #ff5722;
+}
+.material-design-text-deep-orange-500 {
+  color: #ff5722;
+}
+a.material-design-text-deep-orange-500:hover,
+a.material-design-text-deep-orange-500:focus {
+  color: #f4511e;
+}
+.material-design-text-deep-orange-600 {
+  color: #f4511e;
+}
+a.material-design-text-deep-orange-600:hover,
+a.material-design-text-deep-orange-600:focus {
+  color: #e64a19;
+}
+.material-design-text-deep-orange-700 {
+  color: #e64a19;
+}
+a.material-design-text-deep-orange-700:hover,
+a.material-design-text-deep-orange-700:focus {
+  color: #d84315;
+}
+.material-design-text-deep-orange-800 {
+  color: #d84315;
+}
+a.material-design-text-deep-orange-800:hover,
+a.material-design-text-deep-orange-800:focus {
+  color: #bf360c;
+}
+.material-design-text-deep-orange-900 {
+  color: #bf360c;
+}
+a.material-design-text-deep-orange-900:hover,
+a.material-design-text-deep-orange-900:focus {
+  color: #8f2809;
+}
+.material-design-text-deep-orange-A100 {
+  color: #ff9e80;
+}
+a.material-design-text-deep-orange-A100:hover,
+a.material-design-text-deep-orange-A100:focus {
+  color: #ff774d;
+}
+.material-design-text-deep-orange-A200 {
+  color: #ff6e40;
+}
+a.material-design-text-deep-orange-A200:hover,
+a.material-design-text-deep-orange-A200:focus {
+  color: #ff470d;
+}
+.material-design-text-deep-orange-A400 {
+  color: #ff3d00;
+}
+a.material-design-text-deep-orange-A400:hover,
+a.material-design-text-deep-orange-A400:focus {
+  color: #cc3100;
+}
+.material-design-text-deep-orange-A700 {
+  color: #dd2c00;
+}
+a.material-design-text-deep-orange-A700:hover,
+a.material-design-text-deep-orange-A700:focus {
+  color: #aa2200;
+}
+.material-design-bg-deep-orange {
+  background-color: #ff5722;
+}
+a.material-design-bg-deep-orange:hover,
+a.material-design-bg-deep-orange:focus {
+  background-color: #f4511e;
+}
+.material-design-bg-deep-orange-50 {
+  background-color: #fbe9e7;
+}
+a.material-design-bg-deep-orange-50:hover,
+a.material-design-bg-deep-orange-50:focus {
+  background-color: #ffccbc;
+}
+.material-design-bg-deep-orange-100 {
+  background-color: #ffccbc;
+}
+a.material-design-bg-deep-orange-100:hover,
+a.material-design-bg-deep-orange-100:focus {
+  background-color: #ffab91;
+}
+.material-design-bg-deep-orange-200 {
+  background-color: #ffab91;
+}
+a.material-design-bg-deep-orange-200:hover,
+a.material-design-bg-deep-orange-200:focus {
+  background-color: #ff8a65;
+}
+.material-design-bg-deep-orange-300 {
+  background-color: #ff8a65;
+}
+a.material-design-bg-deep-orange-300:hover,
+a.material-design-bg-deep-orange-300:focus {
+  background-color: #ff7043;
+}
+.material-design-bg-deep-orange-400 {
+  background-color: #ff7043;
+}
+a.material-design-bg-deep-orange-400:hover,
+a.material-design-bg-deep-orange-400:focus {
+  background-color: #ff5722;
+}
+.material-design-bg-deep-orange-500 {
+  background-color: #ff5722;
+}
+a.material-design-bg-deep-orange-500:hover,
+a.material-design-bg-deep-orange-500:focus {
+  background-color: #f4511e;
+}
+.material-design-bg-deep-orange-600 {
+  background-color: #f4511e;
+}
+a.material-design-bg-deep-orange-600:hover,
+a.material-design-bg-deep-orange-600:focus {
+  background-color: #e64a19;
+}
+.material-design-bg-deep-orange-700 {
+  background-color: #e64a19;
+}
+a.material-design-bg-deep-orange-700:hover,
+a.material-design-bg-deep-orange-700:focus {
+  background-color: #d84315;
+}
+.material-design-bg-deep-orange-800 {
+  background-color: #d84315;
+}
+a.material-design-bg-deep-orange-800:hover,
+a.material-design-bg-deep-orange-800:focus {
+  background-color: #bf360c;
+}
+.material-design-bg-deep-orange-900 {
+  background-color: #bf360c;
+}
+a.material-design-bg-deep-orange-900:hover,
+a.material-design-bg-deep-orange-900:focus {
+  background-color: #8f2809;
+}
+.material-design-bg-deep-orange-A100 {
+  background-color: #ff9e80;
+}
+a.material-design-bg-deep-orange-A100:hover,
+a.material-design-bg-deep-orange-A100:focus {
+  background-color: #ff774d;
+}
+.material-design-bg-deep-orange-A200 {
+  background-color: #ff6e40;
+}
+a.material-design-bg-deep-orange-A200:hover,
+a.material-design-bg-deep-orange-A200:focus {
+  background-color: #ff470d;
+}
+.material-design-bg-deep-orange-A400 {
+  background-color: #ff3d00;
+}
+a.material-design-bg-deep-orange-A400:hover,
+a.material-design-bg-deep-orange-A400:focus {
+  background-color: #cc3100;
+}
+.material-design-bg-deep-orange-A700 {
+  background-color: #dd2c00;
+}
+a.material-design-bg-deep-orange-A700:hover,
+a.material-design-bg-deep-orange-A700:focus {
+  background-color: #aa2200;
+}
+.material-design-text-brown {
+  color: #795548;
+}
+a.material-design-text-brown:hover,
+a.material-design-text-brown:focus {
+  color: #6d4c41;
+}
+.material-design-text-brown-50 {
+  color: #efebe9;
+}
+a.material-design-text-brown-50:hover,
+a.material-design-text-brown-50:focus {
+  color: #d7ccc8;
+}
+.material-design-text-brown-100 {
+  color: #d7ccc8;
+}
+a.material-design-text-brown-100:hover,
+a.material-design-text-brown-100:focus {
+  color: #bcaaa4;
+}
+.material-design-text-brown-200 {
+  color: #bcaaa4;
+}
+a.material-design-text-brown-200:hover,
+a.material-design-text-brown-200:focus {
+  color: #a1887f;
+}
+.material-design-text-brown-300 {
+  color: #a1887f;
+}
+a.material-design-text-brown-300:hover,
+a.material-design-text-brown-300:focus {
+  color: #8d6e63;
+}
+.material-design-text-brown-400 {
+  color: #8d6e63;
+}
+a.material-design-text-brown-400:hover,
+a.material-design-text-brown-400:focus {
+  color: #795548;
+}
+.material-design-text-brown-500 {
+  color: #795548;
+}
+a.material-design-text-brown-500:hover,
+a.material-design-text-brown-500:focus {
+  color: #6d4c41;
+}
+.material-design-text-brown-600 {
+  color: #6d4c41;
+}
+a.material-design-text-brown-600:hover,
+a.material-design-text-brown-600:focus {
+  color: #5d4037;
+}
+.material-design-text-brown-700 {
+  color: #5d4037;
+}
+a.material-design-text-brown-700:hover,
+a.material-design-text-brown-700:focus {
+  color: #4e342e;
+}
+.material-design-text-brown-800 {
+  color: #4e342e;
+}
+a.material-design-text-brown-800:hover,
+a.material-design-text-brown-800:focus {
+  color: #3e2723;
+}
+.material-design-text-brown-900 {
+  color: #3e2723;
+}
+a.material-design-text-brown-900:hover,
+a.material-design-text-brown-900:focus {
+  color: #1d1211;
+}
+.material-design-bg-brown {
+  background-color: #795548;
+}
+a.material-design-bg-brown:hover,
+a.material-design-bg-brown:focus {
+  background-color: #6d4c41;
+}
+.material-design-bg-brown-50 {
+  background-color: #efebe9;
+}
+a.material-design-bg-brown-50:hover,
+a.material-design-bg-brown-50:focus {
+  background-color: #d7ccc8;
+}
+.material-design-bg-brown-100 {
+  background-color: #d7ccc8;
+}
+a.material-design-bg-brown-100:hover,
+a.material-design-bg-brown-100:focus {
+  background-color: #bcaaa4;
+}
+.material-design-bg-brown-200 {
+  background-color: #bcaaa4;
+}
+a.material-design-bg-brown-200:hover,
+a.material-design-bg-brown-200:focus {
+  background-color: #a1887f;
+}
+.material-design-bg-brown-300 {
+  background-color: #a1887f;
+}
+a.material-design-bg-brown-300:hover,
+a.material-design-bg-brown-300:focus {
+  background-color: #8d6e63;
+}
+.material-design-bg-brown-400 {
+  background-color: #8d6e63;
+}
+a.material-design-bg-brown-400:hover,
+a.material-design-bg-brown-400:focus {
+  background-color: #795548;
+}
+.material-design-bg-brown-500 {
+  background-color: #795548;
+}
+a.material-design-bg-brown-500:hover,
+a.material-design-bg-brown-500:focus {
+  background-color: #6d4c41;
+}
+.material-design-bg-brown-600 {
+  background-color: #6d4c41;
+}
+a.material-design-bg-brown-600:hover,
+a.material-design-bg-brown-600:focus {
+  background-color: #5d4037;
+}
+.material-design-bg-brown-700 {
+  background-color: #5d4037;
+}
+a.material-design-bg-brown-700:hover,
+a.material-design-bg-brown-700:focus {
+  background-color: #4e342e;
+}
+.material-design-bg-brown-800 {
+  background-color: #4e342e;
+}
+a.material-design-bg-brown-800:hover,
+a.material-design-bg-brown-800:focus {
+  background-color: #3e2723;
+}
+.material-design-bg-brown-900 {
+  background-color: #3e2723;
+}
+a.material-design-bg-brown-900:hover,
+a.material-design-bg-brown-900:focus {
+  background-color: #1d1211;
+}
+.material-design-text-grey {
+  color: #9e9e9e;
+}
+a.material-design-text-grey:hover,
+a.material-design-text-grey:focus {
+  color: #757575;
+}
+.material-design-text-grey-50 {
+  color: #fafafa;
+}
+a.material-design-text-grey-50:hover,
+a.material-design-text-grey-50:focus {
+  color: #f5f5f5;
+}
+.material-design-text-grey-100 {
+  color: #f5f5f5;
+}
+a.material-design-text-grey-100:hover,
+a.material-design-text-grey-100:focus {
+  color: #eeeeee;
+}
+.material-design-text-grey-200 {
+  color: #eeeeee;
+}
+a.material-design-text-grey-200:hover,
+a.material-design-text-grey-200:focus {
+  color: #e0e0e0;
+}
+.material-design-text-grey-300 {
+  color: #e0e0e0;
+}
+a.material-design-text-grey-300:hover,
+a.material-design-text-grey-300:focus {
+  color: #bdbdbd;
+}
+.material-design-text-grey-400 {
+  color: #bdbdbd;
+}
+a.material-design-text-grey-400:hover,
+a.material-design-text-grey-400:focus {
+  color: #9e9e9e;
+}
+.material-design-text-grey-500 {
+  color: #9e9e9e;
+}
+a.material-design-text-grey-500:hover,
+a.material-design-text-grey-500:focus {
+  color: #757575;
+}
+.material-design-text-grey-600 {
+  color: #757575;
+}
+a.material-design-text-grey-600:hover,
+a.material-design-text-grey-600:focus {
+  color: #616161;
+}
+.material-design-text-grey-700 {
+  color: #616161;
+}
+a.material-design-text-grey-700:hover,
+a.material-design-text-grey-700:focus {
+  color: #424242;
+}
+.material-design-text-grey-800 {
+  color: #424242;
+}
+a.material-design-text-grey-800:hover,
+a.material-design-text-grey-800:focus {
+  color: #212121;
+}
+.material-design-text-grey-900 {
+  color: #212121;
+}
+a.material-design-text-grey-900:hover,
+a.material-design-text-grey-900:focus {
+  color: #080808;
+}
+.material-design-bg-grey {
+  background-color: #9e9e9e;
+}
+a.material-design-bg-grey:hover,
+a.material-design-bg-grey:focus {
+  background-color: #757575;
+}
+.material-design-bg-grey-50 {
+  background-color: #fafafa;
+}
+a.material-design-bg-grey-50:hover,
+a.material-design-bg-grey-50:focus {
+  background-color: #f5f5f5;
+}
+.material-design-bg-grey-100 {
+  background-color: #f5f5f5;
+}
+a.material-design-bg-grey-100:hover,
+a.material-design-bg-grey-100:focus {
+  background-color: #eeeeee;
+}
+.material-design-bg-grey-200 {
+  background-color: #eeeeee;
+}
+a.material-design-bg-grey-200:hover,
+a.material-design-bg-grey-200:focus {
+  background-color: #e0e0e0;
+}
+.material-design-bg-grey-300 {
+  background-color: #e0e0e0;
+}
+a.material-design-bg-grey-300:hover,
+a.material-design-bg-grey-300:focus {
+  background-color: #bdbdbd;
+}
+.material-design-bg-grey-400 {
+  background-color: #bdbdbd;
+}
+a.material-design-bg-grey-400:hover,
+a.material-design-bg-grey-400:focus {
+  background-color: #9e9e9e;
+}
+.material-design-bg-grey-500 {
+  background-color: #9e9e9e;
+}
+a.material-design-bg-grey-500:hover,
+a.material-design-bg-grey-500:focus {
+  background-color: #757575;
+}
+.material-design-bg-grey-600 {
+  background-color: #757575;
+}
+a.material-design-bg-grey-600:hover,
+a.material-design-bg-grey-600:focus {
+  background-color: #616161;
+}
+.material-design-bg-grey-700 {
+  background-color: #616161;
+}
+a.material-design-bg-grey-700:hover,
+a.material-design-bg-grey-700:focus {
+  background-color: #424242;
+}
+.material-design-bg-grey-800 {
+  background-color: #424242;
+}
+a.material-design-bg-grey-800:hover,
+a.material-design-bg-grey-800:focus {
+  background-color: #212121;
+}
+.material-design-bg-grey-900 {
+  background-color: #212121;
+}
+a.material-design-bg-grey-900:hover,
+a.material-design-bg-grey-900:focus {
+  background-color: #080808;
+}
+.material-design-text-blue-grey {
+  color: #607d8b;
+}
+a.material-design-text-blue-grey:hover,
+a.material-design-text-blue-grey:focus {
+  color: #546e7a;
+}
+.material-design-text-blue-grey-50 {
+  color: #eceff1;
+}
+a.material-design-text-blue-grey-50:hover,
+a.material-design-text-blue-grey-50:focus {
+  color: #cfd8dc;
+}
+.material-design-text-blue-grey-100 {
+  color: #cfd8dc;
+}
+a.material-design-text-blue-grey-100:hover,
+a.material-design-text-blue-grey-100:focus {
+  color: #b0bec5;
+}
+.material-design-text-blue-grey-200 {
+  color: #b0bec5;
+}
+a.material-design-text-blue-grey-200:hover,
+a.material-design-text-blue-grey-200:focus {
+  color: #90a4ae;
+}
+.material-design-text-blue-grey-300 {
+  color: #90a4ae;
+}
+a.material-design-text-blue-grey-300:hover,
+a.material-design-text-blue-grey-300:focus {
+  color: #78909c;
+}
+.material-design-text-blue-grey-400 {
+  color: #78909c;
+}
+a.material-design-text-blue-grey-400:hover,
+a.material-design-text-blue-grey-400:focus {
+  color: #607d8b;
+}
+.material-design-text-blue-grey-500 {
+  color: #607d8b;
+}
+a.material-design-text-blue-grey-500:hover,
+a.material-design-text-blue-grey-500:focus {
+  color: #546e7a;
+}
+.material-design-text-blue-grey-600 {
+  color: #546e7a;
+}
+a.material-design-text-blue-grey-600:hover,
+a.material-design-text-blue-grey-600:focus {
+  color: #455a64;
+}
+.material-design-text-blue-grey-700 {
+  color: #455a64;
+}
+a.material-design-text-blue-grey-700:hover,
+a.material-design-text-blue-grey-700:focus {
+  color: #37474f;
+}
+.material-design-text-blue-grey-800 {
+  color: #37474f;
+}
+a.material-design-text-blue-grey-800:hover,
+a.material-design-text-blue-grey-800:focus {
+  color: #263238;
+}
+.material-design-text-blue-grey-900 {
+  color: #263238;
+}
+a.material-design-text-blue-grey-900:hover,
+a.material-design-text-blue-grey-900:focus {
+  color: #11171a;
+}
+.material-design-bg-blue-grey {
+  background-color: #607d8b;
+}
+a.material-design-bg-blue-grey:hover,
+a.material-design-bg-blue-grey:focus {
+  background-color: #546e7a;
+}
+.material-design-bg-blue-grey-50 {
+  background-color: #eceff1;
+}
+a.material-design-bg-blue-grey-50:hover,
+a.material-design-bg-blue-grey-50:focus {
+  background-color: #cfd8dc;
+}
+.material-design-bg-blue-grey-100 {
+  background-color: #cfd8dc;
+}
+a.material-design-bg-blue-grey-100:hover,
+a.material-design-bg-blue-grey-100:focus {
+  background-color: #b0bec5;
+}
+.material-design-bg-blue-grey-200 {
+  background-color: #b0bec5;
+}
+a.material-design-bg-blue-grey-200:hover,
+a.material-design-bg-blue-grey-200:focus {
+  background-color: #90a4ae;
+}
+.material-design-bg-blue-grey-300 {
+  background-color: #90a4ae;
+}
+a.material-design-bg-blue-grey-300:hover,
+a.material-design-bg-blue-grey-300:focus {
+  background-color: #78909c;
+}
+.material-design-bg-blue-grey-400 {
+  background-color: #78909c;
+}
+a.material-design-bg-blue-grey-400:hover,
+a.material-design-bg-blue-grey-400:focus {
+  background-color: #607d8b;
+}
+.material-design-bg-blue-grey-500 {
+  background-color: #607d8b;
+}
+a.material-design-bg-blue-grey-500:hover,
+a.material-design-bg-blue-grey-500:focus {
+  background-color: #546e7a;
+}
+.material-design-bg-blue-grey-600 {
+  background-color: #546e7a;
+}
+a.material-design-bg-blue-grey-600:hover,
+a.material-design-bg-blue-grey-600:focus {
+  background-color: #455a64;
+}
+.material-design-bg-blue-grey-700 {
+  background-color: #455a64;
+}
+a.material-design-bg-blue-grey-700:hover,
+a.material-design-bg-blue-grey-700:focus {
+  background-color: #37474f;
+}
+.material-design-bg-blue-grey-800 {
+  background-color: #37474f;
+}
+a.material-design-bg-blue-grey-800:hover,
+a.material-design-bg-blue-grey-800:focus {
+  background-color: #263238;
+}
+.material-design-bg-blue-grey-900 {
+  background-color: #263238;
+}
+a.material-design-bg-blue-grey-900:hover,
+a.material-design-bg-blue-grey-900:focus {
+  background-color: #11171a;
+}
+.material-design-text-white-lighter {
+  color: rgba(255, 255, 255, 0.12);
+}
+a.material-design-text-white-lighter:hover,
+a.material-design-text-white-lighter:focus {
+  color: rgba(255, 255, 255, 0.3);
+}
+.material-design-text-white-light {
+  color: rgba(255, 255, 255, 0.3);
+}
+a.material-design-text-white-light:hover,
+a.material-design-text-white-light:focus {
+  color: rgba(255, 255, 255, 0.7);
+}
+.material-design-text-white-dark {
+  color: rgba(255, 255, 255, 0.7);
+}
+a.material-design-text-white-dark:hover,
+a.material-design-text-white-dark:focus {
+  color: #ffffff;
+}
+.material-design-text-white-darker {
+  color: #ffffff;
+}
+a.material-design-text-white-darker:hover,
+a.material-design-text-white-darker:focus {
+  color: white;
+}
+.material-design-text-white-lighter {
+  color: rgba(255, 255, 255, 0.12);
+}
+a.material-design-text-white-lighter:hover,
+a.material-design-text-white-lighter:focus {
+  color: rgba(255, 255, 255, 0.3);
+}
+.material-design-text-white-light {
+  color: rgba(255, 255, 255, 0.3);
+}
+a.material-design-text-white-light:hover,
+a.material-design-text-white-light:focus {
+  color: rgba(255, 255, 255, 0.7);
+}
+.material-design-text-white-dark {
+  color: rgba(255, 255, 255, 0.7);
+}
+a.material-design-text-white-dark:hover,
+a.material-design-text-white-dark:focus {
+  color: #ffffff;
+}
+.material-design-text-white-darker {
+  color: #ffffff;
+}
+a.material-design-text-white-darker:hover,
+a.material-design-text-white-darker:focus {
+  color: white;
+}
+.material-design-text-black-lighter {
+  color: rgba(0, 0, 0, 0.12);
+}
+a.material-design-text-black-lighter:hover,
+a.material-design-text-black-lighter:focus {
+  color: rgba(0, 0, 0, 0.26);
+}
+.material-design-text-black-light {
+  color: rgba(0, 0, 0, 0.26);
+}
+a.material-design-text-black-light:hover,
+a.material-design-text-black-light:focus {
+  color: rgba(0, 0, 0, 0.54);
+}
+.material-design-text-black-dark {
+  color: rgba(0, 0, 0, 0.54);
+}
+a.material-design-text-black-dark:hover,
+a.material-design-text-black-dark:focus {
+  color: rgba(0, 0, 0, 0.87);
+}
+.material-design-text-black-darker {
+  color: rgba(0, 0, 0, 0.87);
+}
+a.material-design-text-black-darker:hover,
+a.material-design-text-black-darker:focus {
+  color: black;
+}
+.material-design-text-black-lighter {
+  color: rgba(0, 0, 0, 0.12);
+}
+a.material-design-text-black-lighter:hover,
+a.material-design-text-black-lighter:focus {
+  color: rgba(0, 0, 0, 0.26);
+}
+.material-design-text-black-light {
+  color: rgba(0, 0, 0, 0.26);
+}
+a.material-design-text-black-light:hover,
+a.material-design-text-black-light:focus {
+  color: rgba(0, 0, 0, 0.54);
+}
+.material-design-text-black-dark {
+  color: rgba(0, 0, 0, 0.54);
+}
+a.material-design-text-black-dark:hover,
+a.material-design-text-black-dark:focus {
+  color: rgba(0, 0, 0, 0.87);
+}
+.material-design-text-black-darker {
+  color: rgba(0, 0, 0, 0.87);
+}
+a.material-design-text-black-darker:hover,
+a.material-design-text-black-darker:focus {
+  color: black;
+}
+
+.elements{
+  height:300px;
+  overflow-y:scroll;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+div.editor{
+  margin-top: 300px;
+  height:calc(100vh - 300px);
+  width:100vw;
+}
+textarea.editor{
+  background: transparent;
+  border:none;
+  font-family:monospace;
+  padding:10px;
+  height:100%;
+  width:100vw;
+}
+.form-group{
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
