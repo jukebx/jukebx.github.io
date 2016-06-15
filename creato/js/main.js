@@ -6,13 +6,15 @@ $(document).ready(function() {
       $('.success').addClass('active');
       var closeUpShop = setInterval(function(){
         $('.success').removeClass('active');
-      },2000);
+        clearInterval(closeUpShop)
+      },1500);
     });
 
     clipboard.on('error', function(e) {
       $('.error').addClass('active');
       var closeUpShop = setInterval(function(){
         $('.error').removeClass('active');
+        clearInterval(closeUpShop)
       },2000);
     });
     $('#title').change(function(){
