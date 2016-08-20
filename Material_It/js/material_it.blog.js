@@ -1,0 +1,1 @@
+function parallax(){var o=$(window).scrollTop();$("section.title").css("background-position","0 "+-(.5*o)+"px")}$(window).scroll(function(o){"true"==$("section.title").attr("data-funky-scroll")&&parallax()});

@@ -1,0 +1,85 @@
+Thanks for purchasing Material It!
+----------------------------------------------------
+  __  __       _            _       _     _____ _   
+ |  \/  |     | |          (_)     | |   |_   _| |  
+ | \  / | __ _| |_ ___ _ __ _  __ _| |     | | | |_ 
+ | |\/| |/ _` | __/ _ \ '__| |/ _` | |     | | | __|
+ | |  | | (_| | ||  __/ |  | | (_| | |    _| |_| |_ 
+ |_|  |_|\__,_|\__\___|_|  |_|\__,_|_|   |_____|\__|
+
+----------------------------------------------------
+
+To save you some time from looking at a different file, here's the conditions:
+
+	1. Please do not reproduce/share. This theme is for purchase only.
+
+	2a. Please feel free to use this theme any way you desire.
+	2b. This code is open for editing! You can change it how ever you want, still just don't reproduce/share this/the edited theme.
+
+	3. DO NOT claim that this is your theme in any form.
+
+
+	4. DO give credit to Cole Gawin or jukebx, Inc (or both). To be even more supportive, provide a link to https://jukebx.github.io if you'd like :-)
+
+	5. This theme contains work from jQuery Foundation (jQuery, https://jquery.com), Daniel Eden (Animate.css, https://daneden.github.io), Christian Robertson (Roboto font), and Sideshow (Chewy font).
+
+	6. Please use this theme to the extremes! Share your work with me at colegawin@gmail.com. I like seeing what other people do with my work!
+
+----------------------------------------------------
+
+Now, the for the README.
+
+Hint: You might want to un-minify all the code supplied. That would be a good idea! 
+
+SECTION 1: Header
+	When adding links, make sure you also add them to the shrunken version, found in the material_it.html as the first "div.article" in "section.content". Additionally, when working inside the header, the last link li element should always have the class ".li" added.
+
+	The header can be changed to different colors using the class attribute. The standard is red, but can be change to blue, light green, brown, etc. The colors are all based off the Material Design color scheme, which can be found at https://design.google.com and other sources.
+
+SECTION 2: Title Section
+	Found as "section.title", there are five main parts that go into the title section: the title of the blog, the description of the blog, break lines (how many depends on how much spacing you want), a line "hr" tag (to separate the title/description from the start date), and the start date info ("default says Starts at October 2016").
+
+	SECTION 2a: Title of the blog
+		The "h1" tag found in the title section.
+		Give your blog a creative title! Use italics, bolds, underlines, who cares! Unleash your creativity.
+
+	SECTION 2b: Description of the blog
+		The "h4" tag found in the title section.
+
+	SECTION 2c: Break lines.
+		Depending on how much spacing that you want, add more/less "br" tags.
+
+	SECTION 2d: Line
+		The "hr" tag.
+
+	SECTION 2e: Start date
+		Tells when the blog starts in the "h5" tag.
+
+	The title section can also be changed to different colors using the class attribute. The standard is red, but can be change to blue, light green, brown, etc. The colors are all based off the Material Design color scheme, which can be found at https://design.google.com and other sources.
+
+SECTION 3: Content
+	Where the articles are. "section.content".
+
+	SECTION 3a: Articles
+		Every article "div.article" has a title "h3.title", a date and author "h5.desc" (make sure you keep the date format m/d/yy or mm/d/yy or m/dd/yy or mm/dd/yy), and a picture "div.img img". Additional header tags may be added without making things look weird.
+
+	SECTION 3b: Everything else
+		Everything else is pretty straight forward.
+
+SECTION 4: Actual articles
+	material_it.blog.html, material_it.blog.css, material_it.blog.js
+	Everything on the article itself is pretty simple to understand. Don't forget that you can add blockquotes!
+
+SECTION 5: About page
+	material_it.about.html, material_it.about.css
+	Simple. Don't make it to complex.
+
+SECTION 5: Contact page
+	material_it.contact.html, material_it.contact.css
+	WARNING: PHP email file is not included. Other than that, it is pretty much all set up.
+
+----------------------------------------------------
+
+Once again, thanks for purchasing Material It blog theme. Please enjoy!
+
+Contact me at colegawin@gmail.com.
