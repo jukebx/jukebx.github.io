@@ -1,0 +1,76 @@
+body {
+  padding: 0;
+  margin: 0;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#dae2f8+1,d6a4a4+100 */
+  background-color: #d6a4a4;
+background-image: -moz-linear-gradient(-45deg,  #dae2f8 1%, #d6a4a4 100%) !important; /* FF3.6-15 */
+background-image: -webkit-linear-gradient(-45deg,  #dae2f8 1%,#d6a4a4 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background-image: linear-gradient(135deg,  #dae2f8 1%,#d6a4a4 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dae2f8', endColorstr='#d6a4a4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.before{
+opacity:0.04;
+  transition: all .5s;
+  content: " ";
+  position:fixed;
+  z-index:-1;
+  left:0;
+  top:0;
+  width:100%;
+  height:100%;
+  background:url(./img/flowers.jpg) !important;
+}
+
+.main-nav {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 0;
+}
+
+.main-nav-list {
+  display: inline-block;
+  padding: 0;
+  list-style: none;
+}
+.main-nav-list li {
+  display: inline-block;
+  margin: 2px;
+  padding: 10px;
+  min-width: 50px;
+  min-height: 50px;
+}
+.main-nav-list li.habitats {
+  background-color: #9ae900;
+}
+.main-nav-list li.animals {
+  background-color: #00cb79;
+}
+.main-nav-list li.materials {
+  background-color: #ffd600;
+}
+.main-nav-list li.earth {
+  background-color: #ffa200;
+}
+.main-nav-list li.forces {
+  background-color: #ff2200;
+}
+.main-nav-list li.evolution {
+  background-color: #a8218e;
+}
+.main-nav-list li.light {
+  background-color: #00a7ef;
+}
+.main-nav-list li.electricity {
+  background-color: #00989a;
+}
+.main-nav-list li img {
+  display: inline-block;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}

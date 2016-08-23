@@ -1,0 +1,226 @@
+@import url(http://fonts.googleapis.com/css?family=Londrina+Solid|Nunito:400,300|Montserrat|Roboto:400);
+* {
+    box-sizing: border-box
+}
+
+body,
+html {
+    height: 100%;
+    font-family: "Montserrat"
+}
+
+body {
+    background: #2c3e50
+}
+
+a {
+    color: #53BDFF;
+    text-decoration: none;
+    font-size: 14px
+}
+
+a:hover {
+    color: #86d1ff
+}
+
+.hangman {
+    font-family: "Londrina Solid", cursive;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #53BDFF;
+    font-weight: 300
+}
+
+p {
+    margin-bottom: 20px;
+    color: gray;
+    line-height: 1.3
+}
+
+@keyframes letteranim {
+    50% {
+        transform: translateY(-5px) scale(1.05)
+    }
+}
+
+.letter {
+    display: inline-block;
+    color: transparent;
+    border-bottom: 5px solid #53BDFF;
+    margin: 0 10px;
+    font-size: 50px;
+    padding: 10px;
+    transition: .5s;
+    text-transform: uppercase
+}
+
+.word {
+    display: block;
+    white-space: nowrap
+}
+
+.correct {
+    color: #53BDFF;
+    text-shadow: 1px 2px 0 #20a9ff;
+    animation: letteranim .3s ease
+}
+
+.hidden {
+    opacity:0;
+}
+
+.guessForm {
+    margin: 20px auto 0
+}
+
+.guessForm .btn, .whatword .btn{
+    margin-top:-18px !important;
+    padding-top:0 !important;
+}
+
+button,
+input {
+    font-family: "Londrina Solid", cursive;
+}
+
+.alert{
+}
+
+.learn .alert p{
+    color:white !important;
+    margin-bottom:0;
+    width:100%;
+}
+
+.alert-info{
+    background: #2980b9 !important;
+}
+
+.alert-success{
+    background: #2ecc71 !important;
+}
+
+.alert-danger{
+    background: #c0392b !important;
+}
+
+.alert-warning{
+    background: #f1c40f !important;
+}
+
+.alert-primary{
+    background: #8e44ad !important;
+}
+
+input {
+    width: 320px!important;
+    display: initial!important;
+    height: 57px!important;
+    font-size: 36px!important
+}
+
+.wrongLetters {
+    font-size: 20px
+}
+
+.wrongLetters p {
+    margin-bottom: 10px
+}
+
+.wrongLetters li {
+    display: inline-block;
+    font-size: 40px;
+    background: #ff4d4d;
+    text-shadow: 1px 2px 0 red;
+    padding: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    margin-right: 10px;
+    animation: letteranim .3s ease
+}
+
+.message {
+    display: none;
+    padding: 20px;
+    position: absolute;
+    top: 110px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    background: #0091ec;
+    z-index: 12402402
+}
+
+.message h1 {
+    display: none;
+    color: #fff;
+    text-shadow: 1px 2px 0 #ccc
+}
+
+.message .highlight {
+    color: #ff0;
+    text-transform: capitalize
+}
+
+.message .text {
+    color: #fff;
+    font-size: 30px;
+    display: none
+}
+
+.message .text p {
+    color: #fff
+}
+
+.message .text .highlight {
+    font-size: 40px
+}
+
+.message .muted {
+    margin: 20px auto;
+    color: #86d1ff
+}
+
+@keyframes flash {
+  100% {
+    color: #000;
+    background: red;
+  }
+  90%, 50%, 15% {
+    color: #FFF;
+    background: black;
+  }
+}
+.flash {
+  -webkit-animation-name: flash;
+  -moz-animation-name: flash;
+  animation-name: flash;
+  -webkit-animation-duration: 600ms;
+  -moz-animation-duration: 600ms;
+  animation-duration: 600ms;
+}
+@keyframes flassh {
+  100% {
+    color: #000;
+    background: red;
+  }
+  90%, 50%, 15% {
+    color: #FFF;
+    background: black;
+  }
+}
+.flassh {
+  -webkit-animation-name: flash;
+  -moz-animation-name: flash;
+  animation-name: flash;
+  -webkit-animation-duration: 600ms;
+  -moz-animation-duration: 600ms;
+  animation-duration: 600ms;
+}

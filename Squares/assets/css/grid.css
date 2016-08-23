@@ -1,0 +1,126 @@
+body{
+  background:url('../img/background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  width:100%;
+}
+.col{
+    display: inline-flex;
+    text-align:center;
+}
+.col-inner {
+    margin: auto auto;
+}
+.col-xsm{
+    height:12.5%;
+}
+.col-sm{
+    height:25%;
+}
+.col-md{
+    height:50%;
+}
+.col-lg{
+    height:75%;
+}
+.col-xlg{
+    height:100%;
+}
+nav{
+    position:fixed !important;
+    border-radius:0px !important;
+    width:100%;
+    z-index:999;
+}
+.header{
+    text-align:left;
+    opacity:0.9;
+}
+.palette-turquoise {
+background-color: #1abc9c;
+}
+
+.palette-green-sea {
+background-color: #16a085;
+}
+
+
+.palette-emerald {
+background-color: #2ECC71;
+}
+
+.palette-nephritis {
+background-color: #27ae60;
+}
+
+
+.palette-peter-river {
+background-color: #3498db;
+}
+
+.palette-belize-hole {
+background-color: #2980b9;
+}
+
+.palette-amethyst {
+background-color: #9b59b6;
+}
+
+.palette-wisteria {
+background-color: #8e44ad;
+}
+
+
+.palette-wet-asphalt {
+background-color: #34495e;
+}
+
+
+.palette-midnight-blue {
+background-color: #2c3e50;
+}
+
+
+.palette-sun-flower {
+background-color: #f1c40f;
+}
+
+.palette-orange {
+background-color: #f39c12;
+}
+
+
+.palette-carrot {
+background-color: #e67e22;
+}
+
+.palette-pumpkin {
+background-color: #d35400;
+}
+
+.palette-alizarin {
+background-color: #e74c3c;
+}
+
+.palette-pomegranate {
+background-color: #c0392b;
+}
+
+.palette-clouds {
+background-color: #ecf0f1;
+}
+
+.palette-silver {
+background-color: #bdc3c7;
+}
+
+.palette-concrete {
+background-color: #95a5a6;
+}
+
+.palette-asbestos {
+background-color: #7f8c8d;
+}
+.header h1{
+  font-size:100px;
+}
